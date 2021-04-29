@@ -2,7 +2,7 @@
 
 ![Haonan Hou's github stats](https://github-readme-stats.vercel.app/api?username=HTHou&count_private=true&show_icons=true&theme=tokyonight)
 
-![Haonan Hou's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HTHou&theme=tokyonight)
+![Haonan Hou's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HTHou&layout=compact&theme=tokyonight)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTHou&theme=tokyonight&layout=compact) -->
 

@@ -10,6 +10,8 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTHou&theme=onedark&layout=compact)-->
 
+<!--START_SECTION:activity-->
+
 <!--
 **HTHou/HTHou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

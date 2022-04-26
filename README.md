@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 ### :zap: About Me
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HTHou&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
    
 Joined Github **5** years ago.
 
-Since then I pushed **520** commits, opened **25** issues, submitted **475** pull requests, received **1** stars across **6** personal projects and contributed to **8** public repositories.
+Since then I pushed **521** commits, opened **25** issues, submitted **475** pull requests, received **1** stars across **6** personal projects and contributed to **8** public repositories.
 
 Most used languages across my projects:
 
@@ -19,8 +21,6 @@ Most used languages across my projects:
 
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HTHou&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--![](https://github.com/HTHou/HTHou/blob/output/github-contribution-grid-snake.svg)-->
 

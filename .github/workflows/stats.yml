@@ -19,7 +19,7 @@ jobs:
       uses: teoxoy/profile-readme-stats@master
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        includeForks: true
+        includeForks: false
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then

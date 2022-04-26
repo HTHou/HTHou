@@ -5,9 +5,8 @@ name: CI
 on:
   schedule:
     - cron: '0 */12 * * *' # every 12 hours
-  push:
-    branches:
-      - master
+  workflow_dispatch:
+
 jobs:
   publish:
     runs-on: ubuntu-latest

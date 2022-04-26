@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ### :zap: About Me
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HTHou&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
    
 Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
@@ -14,8 +16,6 @@ Most used languages across my projects:
 
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HTHou&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--![](https://github.com/HTHou/HTHou/blob/output/github-contribution-grid-snake.svg)-->
 

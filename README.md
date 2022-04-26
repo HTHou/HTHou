@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+### :zap: About Me
+   
+Joined Github **5** years ago.
+
+Since then I pushed **520** commits, opened **25** issues, submitted **475** pull requests, received **1** stars across **6** personal projects and contributed to **8** public repositories.
+
+Most used languages across my projects:
+
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B185.8%25)
+![Rich Text Format](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Rich%20Text%20Format%EF%B8%B13.7%25)
+![Objective-C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23438eff&message=Objective-C%EF%B8%B12.1%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B12.1%25)
+![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B11%25)
+![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B10.9%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B10.7%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.2%25)
+
+<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=HTHou&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--![](https://github.com/HTHou/HTHou/blob/output/github-contribution-grid-snake.svg)-->

@@ -8,7 +8,7 @@
 
 <!--![Haonan Hou's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HTHou&layout=compact&theme=onedark)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTHou&theme=onedark&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTHou&theme=onedark&layout=compact)-->
 
 <!--
 **HTHou/HTHou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

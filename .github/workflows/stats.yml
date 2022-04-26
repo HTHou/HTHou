@@ -1,4 +1,4 @@
-name: CI
+name: stats
 
 on:
   schedule:
@@ -18,8 +18,8 @@ jobs:
     - name: Generate README.md
       uses: teoxoy/profile-readme-stats@master
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        includeForks: false
+        token: ${{ secrets.USER_TOKEN }}
+        includeForks: true
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then

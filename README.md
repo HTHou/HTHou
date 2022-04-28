@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-### :zap: About Me
+## 📎 About Me
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HTHou&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
    
@@ -30,7 +30,7 @@ Most used languages across my projects:
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTHou&theme=onedark&layout=compact)-->
 
-### :zap: Recent Activity
+## :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#5712](https://github.com/apache/iotdb/pull/5712) in [apache/iotdb](https://github.com/apache/iotdb)
 2. 💪 Opened PR [#5708](https://github.com/apache/iotdb/pull/5708) in [apache/iotdb](https://github.com/apache/iotdb)

@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#20](https://github.com/arhont375/intellij-thrift/issues/20) in [arhont375/intellij-thrift](https://github.com/arhont375/intellij-thrift)
-2. 🔒 Closed issue [#18](https://github.com/arhont375/intellij-thrift/issues/18) in [arhont375/intellij-thrift](https://github.com/arhont375/intellij-thrift)
-3. ❗ Opened issue [#20](https://github.com/arhont375/intellij-thrift/issues/20) in [arhont375/intellij-thrift](https://github.com/arhont375/intellij-thrift)
-4. ❗ Opened issue [#18](https://github.com/arhont375/intellij-thrift/issues/18) in [arhont375/intellij-thrift](https://github.com/arhont375/intellij-thrift)
-5. 🎉 Merged PR [#11683](https://github.com/apache/iotdb/pull/11683) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🎉 Merged PR [#131](https://github.com/apache/iotdb-docs/pull/131) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-7. 🎉 Merged PR [#11678](https://github.com/apache/iotdb/pull/11678) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🎉 Merged PR [#126](https://github.com/apache/iotdb-docs/pull/126) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-9. 🎉 Merged PR [#93](https://github.com/apache/iotdb-client-go/pull/93) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-10. 💪 Opened PR [#11662](https://github.com/apache/iotdb/pull/11662) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 🎉 Merged PR [#11686](https://github.com/apache/iotdb/pull/11686) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🔒 Closed issue [#20](https://github.com/arhont375/intellij-thrift/issues/20) in [arhont375/intellij-thrift](https://github.com/arhont375/intellij-thrift)
+3. 🔒 Closed issue [#18](https://github.com/arhont375/intellij-thrift/issues/18) in [arhont375/intellij-thrift](https://github.com/arhont375/intellij-thrift)
+4. ❗ Opened issue [#20](https://github.com/arhont375/intellij-thrift/issues/20) in [arhont375/intellij-thrift](https://github.com/arhont375/intellij-thrift)
+5. ❗ Opened issue [#18](https://github.com/arhont375/intellij-thrift/issues/18) in [arhont375/intellij-thrift](https://github.com/arhont375/intellij-thrift)
+6. 🎉 Merged PR [#11683](https://github.com/apache/iotdb/pull/11683) in [apache/iotdb](https://github.com/apache/iotdb)
+7. 🎉 Merged PR [#131](https://github.com/apache/iotdb-docs/pull/131) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
+8. 🎉 Merged PR [#11678](https://github.com/apache/iotdb/pull/11678) in [apache/iotdb](https://github.com/apache/iotdb)
+9. 🎉 Merged PR [#126](https://github.com/apache/iotdb-docs/pull/126) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
+10. 🎉 Merged PR [#93](https://github.com/apache/iotdb-client-go/pull/93) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
 <!--END_SECTION:activity-->
 
 <!--

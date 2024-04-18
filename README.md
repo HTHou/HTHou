@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12354](https://github.com/apache/iotdb/issues/12354#issuecomment-2062866986) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🗣 Commented on [#12354](https://github.com/apache/iotdb/issues/12354#issuecomment-2062864428) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🗣 Commented on [#12354](https://github.com/apache/iotdb/issues/12354#issuecomment-2062863799) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🗣 Commented on [#12360](https://github.com/apache/iotdb/issues/12360#issuecomment-2062858071) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🎉 Merged PR [#12363](https://github.com/apache/iotdb/pull/12363) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 💪 Opened PR [#12363](https://github.com/apache/iotdb/pull/12363) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🎉 Merged PR [#220](https://github.com/apache/iotdb-docs/pull/220) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-8. 🎉 Merged PR [#219](https://github.com/apache/iotdb-docs/pull/219) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-9. 💪 Opened PR [#220](https://github.com/apache/iotdb-docs/pull/220) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-10. 🎉 Merged PR [#12319](https://github.com/apache/iotdb/pull/12319) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 🔒 Closed issue [#11981](https://github.com/apache/iotdb/issues/11981) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🗣 Commented on [#12354](https://github.com/apache/iotdb/issues/12354#issuecomment-2062866986) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🗣 Commented on [#12354](https://github.com/apache/iotdb/issues/12354#issuecomment-2062864428) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🗣 Commented on [#12354](https://github.com/apache/iotdb/issues/12354#issuecomment-2062863799) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🗣 Commented on [#12360](https://github.com/apache/iotdb/issues/12360#issuecomment-2062858071) in [apache/iotdb](https://github.com/apache/iotdb)
+6. 🎉 Merged PR [#12363](https://github.com/apache/iotdb/pull/12363) in [apache/iotdb](https://github.com/apache/iotdb)
+7. 💪 Opened PR [#12363](https://github.com/apache/iotdb/pull/12363) in [apache/iotdb](https://github.com/apache/iotdb)
+8. 🎉 Merged PR [#220](https://github.com/apache/iotdb-docs/pull/220) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
+9. 🎉 Merged PR [#219](https://github.com/apache/iotdb-docs/pull/219) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
+10. 💪 Opened PR [#220](https://github.com/apache/iotdb-docs/pull/220) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
 <!--END_SECTION:activity-->
 
 <!--

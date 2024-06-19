@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#129](https://github.com/apache/tsfile/issues/129) in [apache/tsfile](https://github.com/apache/tsfile)
-2. 🗣 Commented on [#12759](https://github.com/apache/iotdb/pull/12759#issuecomment-2176339900) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🎉 Merged PR [#122](https://github.com/apache/tsfile/pull/122) in [apache/tsfile](https://github.com/apache/tsfile)
-4. 💪 Opened PR [#122](https://github.com/apache/tsfile/pull/122) in [apache/tsfile](https://github.com/apache/tsfile)
-5. 🎉 Merged PR [#12749](https://github.com/apache/iotdb/pull/12749) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🔒 Closed issue [#100](https://github.com/apache/tsfile/issues/100) in [apache/tsfile](https://github.com/apache/tsfile)
-7. 🎉 Merged PR [#12754](https://github.com/apache/iotdb/pull/12754) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 💪 Opened PR [#12754](https://github.com/apache/iotdb/pull/12754) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🗣 Commented on [#109](https://github.com/apache/tsfile/pull/109#issuecomment-2172548985) in [apache/tsfile](https://github.com/apache/tsfile)
-10. ❌ Closed PR [#11183](https://github.com/apache/iotdb/pull/11183) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 💪 Opened PR [#130](https://github.com/apache/tsfile/pull/130) in [apache/tsfile](https://github.com/apache/tsfile)
+2. ❗ Opened issue [#129](https://github.com/apache/tsfile/issues/129) in [apache/tsfile](https://github.com/apache/tsfile)
+3. 🗣 Commented on [#12759](https://github.com/apache/iotdb/pull/12759#issuecomment-2176339900) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🎉 Merged PR [#122](https://github.com/apache/tsfile/pull/122) in [apache/tsfile](https://github.com/apache/tsfile)
+5. 💪 Opened PR [#122](https://github.com/apache/tsfile/pull/122) in [apache/tsfile](https://github.com/apache/tsfile)
+6. 🎉 Merged PR [#12749](https://github.com/apache/iotdb/pull/12749) in [apache/iotdb](https://github.com/apache/iotdb)
+7. 🔒 Closed issue [#100](https://github.com/apache/tsfile/issues/100) in [apache/tsfile](https://github.com/apache/tsfile)
+8. 🎉 Merged PR [#12754](https://github.com/apache/iotdb/pull/12754) in [apache/iotdb](https://github.com/apache/iotdb)
+9. 💪 Opened PR [#12754](https://github.com/apache/iotdb/pull/12754) in [apache/iotdb](https://github.com/apache/iotdb)
+10. 🗣 Commented on [#109](https://github.com/apache/tsfile/pull/109#issuecomment-2172548985) in [apache/tsfile](https://github.com/apache/tsfile)
 <!--END_SECTION:activity-->
 
 <!--

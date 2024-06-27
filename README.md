@@ -32,12 +32,12 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/apache/iotdb-client-csharp/pull/6) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-2. 💪 Opened PR [#6](https://github.com/apache/iotdb-client-csharp/pull/6) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-3. 💪 Opened PR [#12803](https://github.com/apache/iotdb/pull/12803) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 💪 Opened PR [#12792](https://github.com/apache/iotdb/pull/12792) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🔒 Closed issue [#129](https://github.com/apache/tsfile/issues/129) in [apache/tsfile](https://github.com/apache/tsfile)
-6. 🎉 Merged PR [#130](https://github.com/apache/tsfile/pull/130) in [apache/tsfile](https://github.com/apache/tsfile)
+1. 🚀 Published release [Apache IoTDB 1.3.2](https://github.com/apache/iotdb/releases/tag/v1.3.2) in [apache/iotdb](https://github.com/apache/iotdb)
+2. ❌ Closed PR [#6](https://github.com/apache/iotdb-client-csharp/pull/6) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
+3. 💪 Opened PR [#6](https://github.com/apache/iotdb-client-csharp/pull/6) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
+4. 💪 Opened PR [#12803](https://github.com/apache/iotdb/pull/12803) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 💪 Opened PR [#12792](https://github.com/apache/iotdb/pull/12792) in [apache/iotdb](https://github.com/apache/iotdb)
+6. 🔒 Closed issue [#129](https://github.com/apache/tsfile/issues/129) in [apache/tsfile](https://github.com/apache/tsfile)
 7. 💪 Opened PR [#130](https://github.com/apache/tsfile/pull/130) in [apache/tsfile](https://github.com/apache/tsfile)
 8. 🎉 Merged PR [#5621](https://github.com/apache/iotdb/pull/5621) in [apache/iotdb](https://github.com/apache/iotdb)
 9. 🎉 Merged PR [#5425](https://github.com/apache/iotdb/pull/5425) in [apache/iotdb](https://github.com/apache/iotdb)

@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10411](https://github.com/apache/iotdb/pull/10411) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🗣 Commented on [#10411](https://github.com/apache/iotdb/pull/10411#issuecomment-2200205744) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🗣 Commented on [#10011](https://github.com/apache/iotdb/pull/10011#issuecomment-2200202360) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🎉 Merged PR [#12831](https://github.com/apache/iotdb/pull/12831) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🚀 Published release [Apache IoTDB client go 1.3.2](https://github.com/apache/iotdb-client-go/releases/tag/v1.3.2) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-6. 🎉 Merged PR [#262](https://github.com/apache/iotdb-docs/pull/262) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-7. 💪 Opened PR [#262](https://github.com/apache/iotdb-docs/pull/262) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-8. 🔒 Closed issue [#429](https://github.com/thulab/iot-benchmark/issues/429) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-9. ❗ Opened issue [#429](https://github.com/thulab/iot-benchmark/issues/429) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-10. 🚀 Published release [Apache IoTDB 1.3.2](https://github.com/apache/iotdb/releases/tag/v1.3.2) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 💪 Opened PR [#7](https://github.com/apache/iotdb-client-csharp/pull/7) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
+2. 🎉 Merged PR [#10411](https://github.com/apache/iotdb/pull/10411) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🗣 Commented on [#10411](https://github.com/apache/iotdb/pull/10411#issuecomment-2200205744) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🗣 Commented on [#10011](https://github.com/apache/iotdb/pull/10011#issuecomment-2200202360) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🎉 Merged PR [#12831](https://github.com/apache/iotdb/pull/12831) in [apache/iotdb](https://github.com/apache/iotdb)
+6. 🚀 Published release [Apache IoTDB client go 1.3.2](https://github.com/apache/iotdb-client-go/releases/tag/v1.3.2) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+7. 🎉 Merged PR [#262](https://github.com/apache/iotdb-docs/pull/262) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
+8. 💪 Opened PR [#262](https://github.com/apache/iotdb-docs/pull/262) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
+9. 🔒 Closed issue [#429](https://github.com/thulab/iot-benchmark/issues/429) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
+10. ❗ Opened issue [#429](https://github.com/thulab/iot-benchmark/issues/429) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
 <!--END_SECTION:activity-->
 
 <!--

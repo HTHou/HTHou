@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#146](https://github.com/apache/tsfile/pull/146) in [apache/tsfile](https://github.com/apache/tsfile)
-2. 🎉 Merged PR [#155](https://github.com/apache/tsfile/pull/155) in [apache/tsfile](https://github.com/apache/tsfile)
-3. 🎉 Merged PR [#154](https://github.com/apache/tsfile/pull/154) in [apache/tsfile](https://github.com/apache/tsfile)
-4. 🎉 Merged PR [#153](https://github.com/apache/tsfile/pull/153) in [apache/tsfile](https://github.com/apache/tsfile)
-5. 🎉 Merged PR [#152](https://github.com/apache/tsfile/pull/152) in [apache/tsfile](https://github.com/apache/tsfile)
-6. 🗣 Commented on [#154](https://github.com/apache/tsfile/pull/154#issuecomment-2210596644) in [apache/tsfile](https://github.com/apache/tsfile)
-7. 🗣 Commented on [#153](https://github.com/apache/tsfile/pull/153#issuecomment-2210593138) in [apache/tsfile](https://github.com/apache/tsfile)
-8. 🗣 Commented on [#152](https://github.com/apache/tsfile/pull/152#issuecomment-2210581495) in [apache/tsfile](https://github.com/apache/tsfile)
-9. 🗣 Commented on [#155](https://github.com/apache/tsfile/pull/155#issuecomment-2210579993) in [apache/tsfile](https://github.com/apache/tsfile)
-10. 🗣 Commented on [#156](https://github.com/apache/tsfile/pull/156#issuecomment-2210579471) in [apache/tsfile](https://github.com/apache/tsfile)
+1. ❗ Opened issue [#160](https://github.com/apache/tsfile/issues/160) in [apache/tsfile](https://github.com/apache/tsfile)
+2. 🎉 Merged PR [#146](https://github.com/apache/tsfile/pull/146) in [apache/tsfile](https://github.com/apache/tsfile)
+3. 🎉 Merged PR [#155](https://github.com/apache/tsfile/pull/155) in [apache/tsfile](https://github.com/apache/tsfile)
+4. 🎉 Merged PR [#154](https://github.com/apache/tsfile/pull/154) in [apache/tsfile](https://github.com/apache/tsfile)
+5. 🎉 Merged PR [#153](https://github.com/apache/tsfile/pull/153) in [apache/tsfile](https://github.com/apache/tsfile)
+6. 🎉 Merged PR [#152](https://github.com/apache/tsfile/pull/152) in [apache/tsfile](https://github.com/apache/tsfile)
+7. 🗣 Commented on [#154](https://github.com/apache/tsfile/pull/154#issuecomment-2210596644) in [apache/tsfile](https://github.com/apache/tsfile)
+8. 🗣 Commented on [#153](https://github.com/apache/tsfile/pull/153#issuecomment-2210593138) in [apache/tsfile](https://github.com/apache/tsfile)
+9. 🗣 Commented on [#152](https://github.com/apache/tsfile/pull/152#issuecomment-2210581495) in [apache/tsfile](https://github.com/apache/tsfile)
+10. 🗣 Commented on [#155](https://github.com/apache/tsfile/pull/155#issuecomment-2210579993) in [apache/tsfile](https://github.com/apache/tsfile)
 <!--END_SECTION:activity-->
 
 <!--

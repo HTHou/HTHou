@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#13198](https://github.com/apache/iotdb/issues/13198#issuecomment-2293121810) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🗣 Commented on [#13187](https://github.com/apache/iotdb/issues/13187#issuecomment-2292605545) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🗣 Commented on [#13192](https://github.com/apache/iotdb/issues/13192#issuecomment-2292604755) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🎉 Merged PR [#13189](https://github.com/apache/iotdb/pull/13189) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🗣 Commented on [#3](https://github.com/GuyWhoKnowsTheGuy/chocolatey-packages/issues/3#issuecomment-2291081122) in [GuyWhoKnowsTheGuy/chocolatey-packages](https://github.com/GuyWhoKnowsTheGuy/chocolatey-packages)
+6. 🗣 Commented on [#12451](https://github.com/apache/iotdb/issues/12451#issuecomment-2291075360) in [apache/iotdb](https://github.com/apache/iotdb)
+7. 🎉 Merged PR [#13190](https://github.com/apache/iotdb/pull/13190) in [apache/iotdb](https://github.com/apache/iotdb)
+8. 🗣 Commented on [#12038](https://github.com/apache/iotdb/issues/12038#issuecomment-2290994987) in [apache/iotdb](https://github.com/apache/iotdb)
+9. 💪 Opened PR [#13190](https://github.com/apache/iotdb/pull/13190) in [apache/iotdb](https://github.com/apache/iotdb)
+10. 🗣 Commented on [#12038](https://github.com/apache/iotdb/issues/12038#issuecomment-2290807171) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

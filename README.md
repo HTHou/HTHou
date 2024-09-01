@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#13353](https://github.com/apache/iotdb/pull/13353) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 💪 Opened PR [#13345](https://github.com/apache/iotdb/pull/13345) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 💪 Opened PR [#105](https://github.com/apache/iotdb-client-go/pull/105) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+4. 🎉 Merged PR [#336](https://github.com/apache/iotdb-docs/pull/336) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
+5. 🔒 Closed issue [#15](https://github.com/apache/iotdb-client-csharp/issues/15) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
+6. 🎉 Merged PR [#16](https://github.com/apache/iotdb-client-csharp/pull/16) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
+7. 💪 Opened PR [#16](https://github.com/apache/iotdb-client-csharp/pull/16) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
+8. 🔒 Closed issue [#13](https://github.com/apache/iotdb-client-csharp/issues/13) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
+9. 🎉 Merged PR [#14](https://github.com/apache/iotdb-client-csharp/pull/14) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
+10. 💪 Opened PR [#337](https://github.com/apache/iotdb-docs/pull/337) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
 <!--END_SECTION:activity-->
 
 <!--

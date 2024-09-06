@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#234](https://github.com/apache/tsfile/pull/234) in [apache/tsfile](https://github.com/apache/tsfile)
-2. 🗣 Commented on [#13411](https://github.com/apache/iotdb/issues/13411#issuecomment-2330766261) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 💪 Opened PR [#13412](https://github.com/apache/iotdb/pull/13412) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🎉 Merged PR [#341](https://github.com/apache/iotdb-docs/pull/341) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-5. 💪 Opened PR [#13409](https://github.com/apache/iotdb/pull/13409) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🎉 Merged PR [#13336](https://github.com/apache/iotdb/pull/13336) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🗣 Commented on [#13336](https://github.com/apache/iotdb/pull/13336#issuecomment-2328439188) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 💪 Opened PR [#13398](https://github.com/apache/iotdb/pull/13398) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🎉 Merged PR [#13393](https://github.com/apache/iotdb/pull/13393) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🎉 Merged PR [#13391](https://github.com/apache/iotdb/pull/13391) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

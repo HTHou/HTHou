@@ -6,7 +6,7 @@
    
 Joined Github **7** years ago.
 
-Since then I pushed **2902** commits, opened **41** issues, submitted **1086** pull requests, received **1** stars across **10** personal projects and contributed to **19** public repositories.
+Since then I pushed **2905** commits, opened **41** issues, submitted **1086** pull requests, received **1** stars across **10** personal projects and contributed to **19** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#283](https://github.com/apache/tsfile/pull/283#issuecomment-2456625420) in [apache/tsfile](https://github.com/apache/tsfile)
-2. 🗣 Commented on [#283](https://github.com/apache/tsfile/pull/283#issuecomment-2456599581) in [apache/tsfile](https://github.com/apache/tsfile)
-3. ❌ Closed PR [#286](https://github.com/apache/tsfile/pull/286) in [apache/tsfile](https://github.com/apache/tsfile)
-4. ❌ Closed PR [#289](https://github.com/apache/tsfile/pull/289) in [apache/tsfile](https://github.com/apache/tsfile)
-5. ❌ Closed PR [#290](https://github.com/apache/tsfile/pull/290) in [apache/tsfile](https://github.com/apache/tsfile)
-6. ❌ Closed PR [#291](https://github.com/apache/tsfile/pull/291) in [apache/tsfile](https://github.com/apache/tsfile)
-7. ❌ Closed PR [#285](https://github.com/apache/tsfile/pull/285) in [apache/tsfile](https://github.com/apache/tsfile)
-8. 💪 Opened PR [#291](https://github.com/apache/tsfile/pull/291) in [apache/tsfile](https://github.com/apache/tsfile)
-9. 💪 Opened PR [#290](https://github.com/apache/tsfile/pull/290) in [apache/tsfile](https://github.com/apache/tsfile)
-10. 💪 Opened PR [#289](https://github.com/apache/tsfile/pull/289) in [apache/tsfile](https://github.com/apache/tsfile)
 <!--END_SECTION:activity-->
 
 <!--

@@ -6,7 +6,7 @@
    
 Joined Github **7** years ago.
 
-Since then I pushed **2927** commits, opened **42** issues, submitted **1116** pull requests, received **1** stars across **10** personal projects and contributed to **19** public repositories.
+Since then I pushed **2928** commits, opened **42** issues, submitted **1116** pull requests, received **1** stars across **10** personal projects and contributed to **19** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14235](https://github.com/apache/iotdb/pull/14235) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 💪 Opened PR [#14234](https://github.com/apache/iotdb/pull/14234) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 💪 Opened PR [#14232](https://github.com/apache/iotdb/pull/14232) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🎉 Merged PR [#257](https://github.com/apache/tsfile/pull/257) in [apache/tsfile](https://github.com/apache/tsfile)
-5. 🗣 Commented on [#257](https://github.com/apache/tsfile/pull/257#issuecomment-2505133726) in [apache/tsfile](https://github.com/apache/tsfile)
-6. 🗣 Commented on [#257](https://github.com/apache/tsfile/pull/257#issuecomment-2505133228) in [apache/tsfile](https://github.com/apache/tsfile)
-7. 🎉 Merged PR [#280](https://github.com/apache/tsfile/pull/280) in [apache/tsfile](https://github.com/apache/tsfile)
-8. 🗣 Commented on [#14083](https://github.com/apache/iotdb/pull/14083#issuecomment-2505116642) in [apache/iotdb](https://github.com/apache/iotdb)
-9. ❌ Closed PR [#14231](https://github.com/apache/iotdb/pull/14231) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🎉 Merged PR [#14228](https://github.com/apache/iotdb/pull/14228) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

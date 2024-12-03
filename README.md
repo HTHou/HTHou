@@ -6,7 +6,7 @@
    
 Joined Github **7** years ago.
 
-Since then I pushed **2929** commits, opened **42** issues, submitted **1118** pull requests, received **1** stars across **10** personal projects and contributed to **19** public repositories.
+Since then I pushed **2931** commits, opened **42** issues, submitted **1118** pull requests, received **1** stars across **10** personal projects and contributed to **19** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#468](https://github.com/thulab/iot-benchmark/pull/468) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-2. 💪 Opened PR [#14278](https://github.com/apache/iotdb/pull/14278) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🗣 Commented on [#461](https://github.com/thulab/iot-benchmark/issues/461#issuecomment-2510731174) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-4. 💪 Opened PR [#14272](https://github.com/apache/iotdb/pull/14272) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🎉 Merged PR [#229](https://github.com/apache/tsfile/pull/229) in [apache/tsfile](https://github.com/apache/tsfile)
-6. 🎉 Merged PR [#319](https://github.com/apache/tsfile/pull/319) in [apache/tsfile](https://github.com/apache/tsfile)
-7. 🎉 Merged PR [#316](https://github.com/apache/tsfile/pull/316) in [apache/tsfile](https://github.com/apache/tsfile)
-8. 🎉 Merged PR [#320](https://github.com/apache/tsfile/pull/320) in [apache/tsfile](https://github.com/apache/tsfile)
-9. ❌ Closed PR [#109](https://github.com/apache/iotdb-client-go/pull/109) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-10. 🎉 Merged PR [#14235](https://github.com/apache/iotdb/pull/14235) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

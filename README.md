@@ -6,7 +6,7 @@
    
 Joined Github **7** years ago.
 
-Since then I pushed **2931** commits, opened **43** issues, submitted **1120** pull requests, received **1** stars across **10** personal projects and contributed to **19** public repositories.
+Since then I pushed **2931** commits, opened **44** issues, submitted **1120** pull requests, received **1** stars across **10** personal projects and contributed to **20** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14325](https://github.com/apache/iotdb/pull/14325) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🎉 Merged PR [#14326](https://github.com/apache/iotdb/pull/14326) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 💪 Opened PR [#14329](https://github.com/apache/iotdb/pull/14329) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 💪 Opened PR [#110](https://github.com/apache/iotdb-client-go/pull/110) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-5. ❗ Opened issue [#14307](https://github.com/apache/iotdb/issues/14307) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🎉 Merged PR [#468](https://github.com/thulab/iot-benchmark/pull/468) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-7. 💪 Opened PR [#14278](https://github.com/apache/iotdb/pull/14278) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🗣 Commented on [#461](https://github.com/thulab/iot-benchmark/issues/461#issuecomment-2510731174) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-9. 💪 Opened PR [#14272](https://github.com/apache/iotdb/pull/14272) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🎉 Merged PR [#229](https://github.com/apache/tsfile/pull/229) in [apache/tsfile](https://github.com/apache/tsfile)
 <!--END_SECTION:activity-->
 
 <!--

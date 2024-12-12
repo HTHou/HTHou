@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Apache IoTDB Client Go 1.3.3.1](https://github.com/apache/iotdb-client-go/releases/tag/v1.3.3.1) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-2. 💪 Opened PR [#14387](https://github.com/apache/iotdb/pull/14387) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🎉 Merged PR [#112](https://github.com/apache/iotdb-client-go/pull/112) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-4. 🎉 Merged PR [#113](https://github.com/apache/iotdb-client-go/pull/113) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-5. 🎉 Merged PR [#332](https://github.com/apache/tsfile/pull/332) in [apache/tsfile](https://github.com/apache/tsfile)
-6. 💪 Opened PR [#14379](https://github.com/apache/iotdb/pull/14379) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🚀 Published release [Apache IoTDB Client Go 1.3.3](https://github.com/apache/iotdb-client-go/releases/tag/v1.3.3) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-8. 🎉 Merged PR [#469](https://github.com/thulab/iot-benchmark/pull/469) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-9. 💪 Opened PR [#469](https://github.com/thulab/iot-benchmark/pull/469) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-10. 🔒 Closed issue [#13991](https://github.com/apache/iotdb/issues/13991) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 💪 Opened PR [#14393](https://github.com/apache/iotdb/pull/14393) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🚀 Published release [Apache IoTDB Client Go 1.3.3.1](https://github.com/apache/iotdb-client-go/releases/tag/v1.3.3.1) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+3. 💪 Opened PR [#14387](https://github.com/apache/iotdb/pull/14387) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🎉 Merged PR [#112](https://github.com/apache/iotdb-client-go/pull/112) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+5. 🎉 Merged PR [#113](https://github.com/apache/iotdb-client-go/pull/113) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+6. 🎉 Merged PR [#332](https://github.com/apache/tsfile/pull/332) in [apache/tsfile](https://github.com/apache/tsfile)
+7. 💪 Opened PR [#14379](https://github.com/apache/iotdb/pull/14379) in [apache/iotdb](https://github.com/apache/iotdb)
+8. 🚀 Published release [Apache IoTDB Client Go 1.3.3](https://github.com/apache/iotdb-client-go/releases/tag/v1.3.3) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+9. 🎉 Merged PR [#469](https://github.com/thulab/iot-benchmark/pull/469) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
+10. 💪 Opened PR [#469](https://github.com/thulab/iot-benchmark/pull/469) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
 <!--END_SECTION:activity-->
 
 <!--

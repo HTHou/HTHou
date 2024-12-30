@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1261](https://github.com/jvm-repo-rebuild/reproducible-central/pull/1261) in [jvm-repo-rebuild/reproducible-central](https://github.com/jvm-repo-rebuild/reproducible-central)
-2. ❗ Opened issue [#1262](https://github.com/jvm-repo-rebuild/reproducible-central/issues/1262) in [jvm-repo-rebuild/reproducible-central](https://github.com/jvm-repo-rebuild/reproducible-central)
-3. 💪 Opened PR [#1261](https://github.com/jvm-repo-rebuild/reproducible-central/pull/1261) in [jvm-repo-rebuild/reproducible-central](https://github.com/jvm-repo-rebuild/reproducible-central)
-4. ❌ Reopened PR [#14512](https://github.com/apache/iotdb/pull/14512) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🎉 Merged PR [#14531](https://github.com/apache/iotdb/pull/14531) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 💪 Opened PR [#14537](https://github.com/apache/iotdb/pull/14537) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🎉 Merged PR [#14532](https://github.com/apache/iotdb/pull/14532) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 💪 Opened PR [#14533](https://github.com/apache/iotdb/pull/14533) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 💪 Opened PR [#14532](https://github.com/apache/iotdb/pull/14532) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 💪 Opened PR [#14531](https://github.com/apache/iotdb/pull/14531) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 🗣 Commented on [#889](https://github.com/qos-ch/logback/issues/889#issuecomment-2565067260) in [qos-ch/logback](https://github.com/qos-ch/logback)
+2. 🎉 Merged PR [#14578](https://github.com/apache/iotdb/pull/14578) in [apache/iotdb](https://github.com/apache/iotdb)
+3. ❌ Closed PR [#1261](https://github.com/jvm-repo-rebuild/reproducible-central/pull/1261) in [jvm-repo-rebuild/reproducible-central](https://github.com/jvm-repo-rebuild/reproducible-central)
+4. ❗ Opened issue [#1262](https://github.com/jvm-repo-rebuild/reproducible-central/issues/1262) in [jvm-repo-rebuild/reproducible-central](https://github.com/jvm-repo-rebuild/reproducible-central)
+5. 💪 Opened PR [#1261](https://github.com/jvm-repo-rebuild/reproducible-central/pull/1261) in [jvm-repo-rebuild/reproducible-central](https://github.com/jvm-repo-rebuild/reproducible-central)
+6. ❌ Reopened PR [#14512](https://github.com/apache/iotdb/pull/14512) in [apache/iotdb](https://github.com/apache/iotdb)
+7. 🎉 Merged PR [#14531](https://github.com/apache/iotdb/pull/14531) in [apache/iotdb](https://github.com/apache/iotdb)
+8. 💪 Opened PR [#14537](https://github.com/apache/iotdb/pull/14537) in [apache/iotdb](https://github.com/apache/iotdb)
+9. 🎉 Merged PR [#14532](https://github.com/apache/iotdb/pull/14532) in [apache/iotdb](https://github.com/apache/iotdb)
+10. 💪 Opened PR [#14533](https://github.com/apache/iotdb/pull/14533) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

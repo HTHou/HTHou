@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#398](https://github.com/apache/tsfile/pull/398) in [apache/tsfile](https://github.com/apache/tsfile)
-2. 💪 Opened PR [#14800](https://github.com/apache/iotdb/pull/14800) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🎉 Merged PR [#397](https://github.com/apache/tsfile/pull/397) in [apache/tsfile](https://github.com/apache/tsfile)
-4. 🎉 Merged PR [#14777](https://github.com/apache/iotdb/pull/14777) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 💪 Opened PR [#14777](https://github.com/apache/iotdb/pull/14777) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🎉 Merged PR [#385](https://github.com/apache/tsfile/pull/385) in [apache/tsfile](https://github.com/apache/tsfile)
-7. 🎉 Merged PR [#14747](https://github.com/apache/iotdb/pull/14747) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🗣 Commented on [#12630](https://github.com/jetty/jetty.project/issues/12630#issuecomment-2606113968) in [jetty/jetty.project](https://github.com/jetty/jetty.project)
-9. ❌ Closed PR [#5210](https://github.com/github/advisory-database/pull/5210) in [github/advisory-database](https://github.com/github/advisory-database)
-10. 💪 Opened PR [#14748](https://github.com/apache/iotdb/pull/14748) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

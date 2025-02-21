@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#14913](https://github.com/apache/iotdb/pull/14913) in [apache/iotdb](https://github.com/apache/iotdb)
+2. ❗ Opened issue [#230](https://github.com/lz4/lz4-java/issues/230) in [lz4/lz4-java](https://github.com/lz4/lz4-java)
+3. 🗣 Commented on [#229](https://github.com/lz4/lz4-java/issues/229#issuecomment-2670787027) in [lz4/lz4-java](https://github.com/lz4/lz4-java)
+4. 🎉 Merged PR [#14903](https://github.com/apache/iotdb/pull/14903) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 💪 Opened PR [#14903](https://github.com/apache/iotdb/pull/14903) in [apache/iotdb](https://github.com/apache/iotdb)
+6. 🎉 Merged PR [#14895](https://github.com/apache/iotdb/pull/14895) in [apache/iotdb](https://github.com/apache/iotdb)
+7. 💪 Opened PR [#14898](https://github.com/apache/iotdb/pull/14898) in [apache/iotdb](https://github.com/apache/iotdb)
+8. 🎉 Merged PR [#14892](https://github.com/apache/iotdb/pull/14892) in [apache/iotdb](https://github.com/apache/iotdb)
+9. 🎉 Merged PR [#14896](https://github.com/apache/iotdb/pull/14896) in [apache/iotdb](https://github.com/apache/iotdb)
+10. 💪 Opened PR [#14895](https://github.com/apache/iotdb/pull/14895) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

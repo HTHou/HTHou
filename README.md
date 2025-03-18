@@ -6,7 +6,7 @@
    
 Joined Github **8** years ago.
 
-Since then I pushed **2991** commits, opened **46** issues, submitted **1196** pull requests, received **1** stars across **11** personal projects and contributed to **17** public repositories.
+Since then I pushed **2991** commits, opened **46** issues, submitted **1197** pull requests, received **1** stars across **11** personal projects and contributed to **17** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15113](https://github.com/apache/iotdb/pull/15113) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🎉 Merged PR [#31](https://github.com/apache/iotdb-extras/pull/31) in [apache/iotdb-extras](https://github.com/apache/iotdb-extras)
-3. 🗣 Commented on [#31](https://github.com/apache/iotdb-extras/pull/31#issuecomment-2728907874) in [apache/iotdb-extras](https://github.com/apache/iotdb-extras)
-4. 🎉 Merged PR [#39](https://github.com/apache/iotdb-extras/pull/39) in [apache/iotdb-extras](https://github.com/apache/iotdb-extras)
-5. 🎉 Merged PR [#1](https://github.com/apache/iotdb-extras/pull/1) in [apache/iotdb-extras](https://github.com/apache/iotdb-extras)
-6. 🗣 Commented on [#1](https://github.com/apache/iotdb-extras/pull/1#issuecomment-2723108631) in [apache/iotdb-extras](https://github.com/apache/iotdb-extras)
-7. 🗣 Commented on [#39](https://github.com/apache/iotdb-extras/pull/39#issuecomment-2723105037) in [apache/iotdb-extras](https://github.com/apache/iotdb-extras)
-8. 🎉 Merged PR [#54](https://github.com/apache/iotdb-extras/pull/54) in [apache/iotdb-extras](https://github.com/apache/iotdb-extras)
-9. 🎉 Merged PR [#55](https://github.com/apache/iotdb-extras/pull/55) in [apache/iotdb-extras](https://github.com/apache/iotdb-extras)
-10. 🎉 Merged PR [#56](https://github.com/apache/iotdb-extras/pull/56) in [apache/iotdb-extras](https://github.com/apache/iotdb-extras)
 <!--END_SECTION:activity-->
 
 <!--

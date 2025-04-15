@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#15334](https://github.com/apache/iotdb/pull/15334) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 💪 Opened PR [#15334](https://github.com/apache/iotdb/pull/15334) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🚀 Published release [Apache TsFile 1.1.1](https://github.com/apache/tsfile/releases/tag/v1.1.1) in [apache/tsfile](https://github.com/apache/tsfile)
+4. 🎉 Merged PR [#15332](https://github.com/apache/iotdb/pull/15332) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🎉 Merged PR [#15329](https://github.com/apache/iotdb/pull/15329) in [apache/iotdb](https://github.com/apache/iotdb)
+6. 🚀 Published release [Apache TsFile 2.0.2](https://github.com/apache/tsfile/releases/tag/v2.0.2) in [apache/tsfile](https://github.com/apache/tsfile)
+7. 💪 Opened PR [#453](https://github.com/apache/tsfile/pull/453) in [apache/tsfile](https://github.com/apache/tsfile)
+8. 💪 Opened PR [#15260](https://github.com/apache/iotdb/pull/15260) in [apache/iotdb](https://github.com/apache/iotdb)
+9. 💪 Opened PR [#1](https://github.com/apache/iotdb-mcp-server/pull/1) in [apache/iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server)
+10. 🗣 Commented on [#15204](https://github.com/apache/iotdb/issues/15204#issuecomment-2764893853) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#501](https://github.com/thulab/iot-benchmark/pull/501) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-2. 🎉 Merged PR [#11](https://github.com/apache/iotdb-mcp-server/pull/11) in [apache/iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server)
-3. 💪 Opened PR [#15938](https://github.com/apache/iotdb/pull/15938) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🚀 Published release [Apache TsFile 2.0.3](https://github.com/apache/tsfile/releases/tag/v2.0.3) in [apache/tsfile](https://github.com/apache/tsfile)
-5. 💪 Opened PR [#15932](https://github.com/apache/iotdb/pull/15932) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🎉 Merged PR [#543](https://github.com/apache/tsfile/pull/543) in [apache/tsfile](https://github.com/apache/tsfile)
-7. 💪 Opened PR [#15928](https://github.com/apache/iotdb/pull/15928) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🎉 Merged PR [#15922](https://github.com/apache/iotdb/pull/15922) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 💪 Opened PR [#15927](https://github.com/apache/iotdb/pull/15927) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 💪 Opened PR [#15898](https://github.com/apache/iotdb/pull/15898) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 🎉 Merged PR [#15958](https://github.com/apache/iotdb/pull/15958) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🎉 Merged PR [#501](https://github.com/thulab/iot-benchmark/pull/501) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
+3. 🎉 Merged PR [#11](https://github.com/apache/iotdb-mcp-server/pull/11) in [apache/iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server)
+4. 💪 Opened PR [#15938](https://github.com/apache/iotdb/pull/15938) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🚀 Published release [Apache TsFile 2.0.3](https://github.com/apache/tsfile/releases/tag/v2.0.3) in [apache/tsfile](https://github.com/apache/tsfile)
+6. 💪 Opened PR [#15932](https://github.com/apache/iotdb/pull/15932) in [apache/iotdb](https://github.com/apache/iotdb)
+7. 🎉 Merged PR [#543](https://github.com/apache/tsfile/pull/543) in [apache/tsfile](https://github.com/apache/tsfile)
+8. 💪 Opened PR [#15928](https://github.com/apache/iotdb/pull/15928) in [apache/iotdb](https://github.com/apache/iotdb)
+9. 🎉 Merged PR [#15922](https://github.com/apache/iotdb/pull/15922) in [apache/iotdb](https://github.com/apache/iotdb)
+10. 💪 Opened PR [#15927](https://github.com/apache/iotdb/pull/15927) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

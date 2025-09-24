@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#16470](https://github.com/apache/iotdb/issues/16470#issuecomment-3323375710) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🗣 Commented on [#16463](https://github.com/apache/iotdb/issues/16463#issuecomment-3322746658) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🎉 Merged PR [#16455](https://github.com/apache/iotdb/pull/16455) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🗣 Commented on [#923](https://github.com/actions/setup-java/issues/923#issuecomment-3318271140) in [actions/setup-java](https://github.com/actions/setup-java)
+5. 💪 Opened PR [#16455](https://github.com/apache/iotdb/pull/16455) in [apache/iotdb](https://github.com/apache/iotdb)
+6. 🎉 Merged PR [#16443](https://github.com/apache/iotdb/pull/16443) in [apache/iotdb](https://github.com/apache/iotdb)
+7. 💪 Opened PR [#591](https://github.com/apache/tsfile/pull/591) in [apache/tsfile](https://github.com/apache/tsfile)
+8. 🎉 Merged PR [#16433](https://github.com/apache/iotdb/pull/16433) in [apache/iotdb](https://github.com/apache/iotdb)
+9. 🗣 Commented on [#16409](https://github.com/apache/iotdb/issues/16409#issuecomment-3300907746) in [apache/iotdb](https://github.com/apache/iotdb)
+10. 🗣 Commented on [#3897](https://github.com/reactor/reactor-netty/issues/3897#issuecomment-3296068796) in [reactor/reactor-netty](https://github.com/reactor/reactor-netty)
 <!--END_SECTION:activity-->
 
 <!--

@@ -6,7 +6,7 @@
    
 Joined Github **8** years ago.
 
-Since then I pushed **3082** commits, opened **46** issues, submitted **1286** pull requests, received **1** stars across **12** personal projects and contributed to **15** public repositories.
+Since then I pushed **3084** commits, opened **46** issues, submitted **1287** pull requests, received **1** stars across **12** personal projects and contributed to **15** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16552](https://github.com/apache/iotdb/pull/16552) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 💪 Opened PR [#16524](https://github.com/apache/iotdb/pull/16524) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🎉 Merged PR [#16523](https://github.com/apache/iotdb/pull/16523) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🎉 Merged PR [#16513](https://github.com/apache/iotdb/pull/16513) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🗣 Commented on [#16509](https://github.com/apache/iotdb/issues/16509#issuecomment-3344641834) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 💪 Opened PR [#16513](https://github.com/apache/iotdb/pull/16513) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🎉 Merged PR [#16510](https://github.com/apache/iotdb/pull/16510) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 💪 Opened PR [#16510](https://github.com/apache/iotdb/pull/16510) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 💪 Opened PR [#16504](https://github.com/apache/iotdb/pull/16504) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🎉 Merged PR [#16487](https://github.com/apache/iotdb/pull/16487) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

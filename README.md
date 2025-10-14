@@ -34,14 +34,14 @@ Most used languages across my projects:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#15691](https://github.com/apache/iotdb/pull/15691#issuecomment-3399655085) in [apache/iotdb](https://github.com/apache/iotdb)
 2. 🗣 Commented on [#15627](https://github.com/apache/iotdb/pull/15627#issuecomment-3399654317) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 💪 Opened PR [#16561](https://github.com/apache/iotdb/pull/16561) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 💪 Opened PR [#16552](https://github.com/apache/iotdb/pull/16552) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 💪 Opened PR [#16524](https://github.com/apache/iotdb/pull/16524) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🎉 Merged PR [#16523](https://github.com/apache/iotdb/pull/16523) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🎉 Merged PR [#16513](https://github.com/apache/iotdb/pull/16513) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 💪 Opened PR [#16573](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+4. ❗ Opened issue [#974](https://github.com/qos-ch/logback/issues/974) in [qos-ch/logback](https://github.com/qos-ch/logback)
+5. 💪 Opened PR [#16561](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+6. 💪 Opened PR [#16552](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+7. 💪 Opened PR [#16524](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
 8. 🗣 Commented on [#16509](https://github.com/apache/iotdb/issues/16509#issuecomment-3344641834) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 💪 Opened PR [#16513](https://github.com/apache/iotdb/pull/16513) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🎉 Merged PR [#16510](https://github.com/apache/iotdb/pull/16510) in [apache/iotdb](https://github.com/apache/iotdb)
+9. 💪 Opened PR [#16513](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+10. 💪 Opened PR [#16510](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

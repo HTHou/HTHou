@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#944](https://github.com/actions/setup-java/issues/944) in [actions/setup-java](https://github.com/actions/setup-java)
-2.  Labeled issue [#944](https://github.com/actions/setup-java/issues/944) in [actions/setup-java](https://github.com/actions/setup-java)
-3. ❗ Opened issue [#944](https://github.com/actions/setup-java/issues/944) in [actions/setup-java](https://github.com/actions/setup-java)
-4. 💪 Opened PR [#16621](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 💪 Opened PR [#16617](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🗣 Commented on [#16600](https://github.com/apache/iotdb/issues/16600#issuecomment-3410457210) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 💪 Opened PR [#506](undefined) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-8. 🗣 Commented on [#15691](https://github.com/apache/iotdb/pull/15691#issuecomment-3399655085) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🗣 Commented on [#15627](https://github.com/apache/iotdb/pull/15627#issuecomment-3399654317) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 💪 Opened PR [#16573](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

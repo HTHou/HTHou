@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#16637](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🗣 Commented on [#16630](https://github.com/apache/iotdb/issues/16630#issuecomment-3424604570) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 💪 Opened PR [#16634](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+4.  Labeled issue [#944](https://github.com/actions/setup-java/issues/944) in [actions/setup-java](https://github.com/actions/setup-java)
+5.  Labeled issue [#944](https://github.com/actions/setup-java/issues/944) in [actions/setup-java](https://github.com/actions/setup-java)
+6. ❗ Opened issue [#944](https://github.com/actions/setup-java/issues/944) in [actions/setup-java](https://github.com/actions/setup-java)
+7. 💪 Opened PR [#16621](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+8. 💪 Opened PR [#16617](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+9. 🗣 Commented on [#16600](https://github.com/apache/iotdb/issues/16600#issuecomment-3410457210) in [apache/iotdb](https://github.com/apache/iotdb)
+10. 💪 Opened PR [#506](undefined) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
 <!--END_SECTION:activity-->
 
 <!--

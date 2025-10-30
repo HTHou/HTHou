@@ -6,7 +6,7 @@
    
 Joined Github **8** years ago.
 
-Since then I pushed **3093** commits, opened **48** issues, submitted **1295** pull requests, received **1** stars across **12** personal projects and contributed to **17** public repositories.
+Since then I pushed **3094** commits, opened **48** issues, submitted **1297** pull requests, received **1** stars across **12** personal projects and contributed to **17** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1728](https://github.com/eclipse-leshan/leshan/issues/1728#issuecomment-3466648796) in [eclipse-leshan/leshan](https://github.com/eclipse-leshan/leshan)
-2. 💪 Opened PR [#16671](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 💪 Opened PR [#615](undefined) in [apache/tsfile](https://github.com/apache/tsfile)
-4. 💪 Opened PR [#613](undefined) in [apache/tsfile](https://github.com/apache/tsfile)
-5. 🗣 Commented on [#16666](https://github.com/apache/iotdb/issues/16666#issuecomment-3455155691) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 💪 Opened PR [#16665](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 💪 Opened PR [#16664](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-8. ❌ Closed PR [#16637](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🗣 Commented on [#16630](https://github.com/apache/iotdb/issues/16630#issuecomment-3424604570) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 💪 Opened PR [#16634](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

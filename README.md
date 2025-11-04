@@ -6,17 +6,17 @@
    
 Joined Github **8** years ago.
 
-Since then I pushed **3096** commits, opened **48** issues, submitted **1298** pull requests, received **1** stars across **12** personal projects and contributed to **17** public repositories.
+Since then I pushed **3096** commits, opened **48** issues, submitted **1298** pull requests, received **1** stars across **13** personal projects and contributed to **17** public repositories.
 
 Most used languages across my projects:
 
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B188.7%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B188.6%25)
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B13.8%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B12.7%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B11.4%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B10.7%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.5%25)
-![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B10.4%25)
+![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B10.4%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.5%25)
 
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16666](https://github.com/apache/iotdb/issues/16666) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 💪 Opened PR [#16683](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🗣 Commented on [#1728](https://github.com/eclipse-leshan/leshan/issues/1728#issuecomment-3466648796) in [eclipse-leshan/leshan](https://github.com/eclipse-leshan/leshan)
-4. 💪 Opened PR [#16671](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 💪 Opened PR [#615](undefined) in [apache/tsfile](https://github.com/apache/tsfile)
-6. 💪 Opened PR [#613](undefined) in [apache/tsfile](https://github.com/apache/tsfile)
-7. 🗣 Commented on [#16666](https://github.com/apache/iotdb/issues/16666#issuecomment-3455155691) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 💪 Opened PR [#16665](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 💪 Opened PR [#16664](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-10. ❌ Closed PR [#16637](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

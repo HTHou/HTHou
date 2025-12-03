@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#649](undefined) in [apache/tsfile](https://github.com/apache/tsfile)
-2. 💪 Opened PR [#16831](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 💪 Opened PR [#649](undefined) in [apache/tsfile](https://github.com/apache/tsfile)
-4. 🔒 Closed issue [#13293](https://github.com/apache/iotdb/issues/13293) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🗣 Commented on [#13293](https://github.com/apache/iotdb/issues/13293#issuecomment-3583862612) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🗣 Commented on [#944](https://github.com/actions/setup-java/issues/944#issuecomment-3580550584) in [actions/setup-java](https://github.com/actions/setup-java)
-7. ❌ Merged PR [#16807](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-8. ❌ Merged PR [#16808](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-9. ❌ Merged PR [#16810](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 💪 Opened PR [#16810](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

@@ -6,7 +6,7 @@
    
 Joined Github **8** years ago.
 
-Since then I pushed **3104** commits, opened **48** issues, submitted **1309** pull requests, received **1** stars across **13** personal projects and contributed to **16** public repositories.
+Since then I pushed **3104** commits, opened **49** issues, submitted **1310** pull requests, received **1** stars across **13** personal projects and contributed to **17** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/yawkat/lz4-java/issues/24#issuecomment-3626425475) in [yawkat/lz4-java](https://github.com/yawkat/lz4-java)
-2. 💪 Opened PR [#25](undefined) in [yawkat/lz4-java](https://github.com/yawkat/lz4-java)
-3. ❗ Opened issue [#24](https://github.com/yawkat/lz4-java/issues/24) in [yawkat/lz4-java](https://github.com/yawkat/lz4-java)
-4. ❌ Merged PR [#16871](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 💪 Opened PR [#16871](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🔒 Closed issue [#650](https://github.com/apache/tsfile/issues/650) in [apache/tsfile](https://github.com/apache/tsfile)
-7. 🗣 Commented on [#650](https://github.com/apache/tsfile/issues/650#issuecomment-3615010773) in [apache/tsfile](https://github.com/apache/tsfile)
-8. ❌ Merged PR [#651](undefined) in [apache/tsfile](https://github.com/apache/tsfile)
-9. 💪 Opened PR [#16858](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 💪 Opened PR [#651](undefined) in [apache/tsfile](https://github.com/apache/tsfile)
 <!--END_SECTION:activity-->
 
 <!--

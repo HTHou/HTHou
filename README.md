@@ -6,7 +6,7 @@
    
 Joined Github **8** years ago.
 
-Since then I pushed **3104** commits, opened **49** issues, submitted **1310** pull requests, received **1** stars across **13** personal projects and contributed to **17** public repositories.
+Since then I pushed **3104** commits, opened **49** issues, submitted **1311** pull requests, received **1** stars across **13** personal projects and contributed to **17** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#15274](https://github.com/apache/iotdb/issues/15274) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 💪 Opened PR [#513](undefined) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-3. 🗣 Commented on [#11796](https://github.com/apache/iotdb/issues/11796#issuecomment-3630177046) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🔒 Closed issue [#11796](https://github.com/apache/iotdb/issues/11796) in [apache/iotdb](https://github.com/apache/iotdb)
-5. ❌ Merged PR [#25](undefined) in [yawkat/lz4-java](https://github.com/yawkat/lz4-java)
-6. 🗣 Commented on [#24](https://github.com/yawkat/lz4-java/issues/24#issuecomment-3626425475) in [yawkat/lz4-java](https://github.com/yawkat/lz4-java)
-7. 💪 Opened PR [#25](undefined) in [yawkat/lz4-java](https://github.com/yawkat/lz4-java)
-8. ❗ Opened issue [#24](https://github.com/yawkat/lz4-java/issues/24) in [yawkat/lz4-java](https://github.com/yawkat/lz4-java)
-9. ❌ Merged PR [#16871](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 💪 Opened PR [#16871](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

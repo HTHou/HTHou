@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#16858](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-2. ❌ Closed PR [#16858](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-3. ❌ Merged PR [#514](undefined) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-4. ❌ Merged PR [#16901](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-5. ❌ Merged PR [#663](undefined) in [apache/tsfile](https://github.com/apache/tsfile)
-6. 💪 Opened PR [#663](undefined) in [apache/tsfile](https://github.com/apache/tsfile)
-7. 💪 Opened PR [#16901](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🗣 Commented on [#16858](https://github.com/apache/iotdb/pull/16858#issuecomment-3640655738) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 💪 Opened PR [#514](undefined) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-10. 🔒 Closed issue [#15274](https://github.com/apache/iotdb/issues/15274) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🚀 Published release [Apache TsFile 1.1.3](https://github.com/apache/tsfile/releases/tag/v1.1.3) in [apache/tsfile](https://github.com/apache/tsfile)
+2. 💪 Opened PR [#16945](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+3. ❌ Merged PR [#16939](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 💪 Opened PR [#16939](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 💪 Opened PR [#16935](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+6. 💪 Opened PR [#3273](undefined) in [apache/thrift](https://github.com/apache/thrift)
+7. ❌ Merged PR [#16858](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+8. ❌ Reopened PR [#16858](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+9. ❌ Closed PR [#16858](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+10. ❌ Merged PR [#514](undefined) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
 <!--END_SECTION:activity-->
 
 <!--

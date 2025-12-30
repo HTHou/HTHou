@@ -6,7 +6,7 @@
    
 Joined Github **8** years ago.
 
-Since then I pushed **3107** commits, opened **49** issues, submitted **1319** pull requests, received **1** stars across **14** personal projects and contributed to **17** public repositories.
+Since then I pushed **3110** commits, opened **49** issues, submitted **1321** pull requests, received **1** stars across **14** personal projects and contributed to **17** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16971](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-2. ❌ Merged PR [#682](undefined) in [apache/tsfile](https://github.com/apache/tsfile)
-3. 💪 Opened PR [#682](undefined) in [apache/tsfile](https://github.com/apache/tsfile)
-4. ❌ Merged PR [#16945](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🚀 Published release [Apache TsFile 2.2.0](https://github.com/apache/tsfile/releases/tag/v2.2.0) in [apache/tsfile](https://github.com/apache/tsfile)
-6. 💪 Opened PR [#16965](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🚀 Published release [Apache TsFile 1.1.3](https://github.com/apache/tsfile/releases/tag/v1.1.3) in [apache/tsfile](https://github.com/apache/tsfile)
-8. 💪 Opened PR [#16945](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-9. ❌ Merged PR [#16939](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 💪 Opened PR [#16939](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

@@ -33,15 +33,15 @@ Most used languages across my projects:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7922](https://github.com/huggingface/datasets/issues/7922#issuecomment-3701962054) in [huggingface/datasets](https://github.com/huggingface/datasets)
-2. 💪 Opened PR [#16971](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-3. ❌ Merged PR [#682](undefined) in [apache/tsfile](https://github.com/apache/tsfile)
-4. 💪 Opened PR [#682](undefined) in [apache/tsfile](https://github.com/apache/tsfile)
-5. ❌ Merged PR [#16945](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 💪 Opened PR [#16971](https://github.com/apache/iotdb/pull/16971) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🎉 Merged PR [#682](https://github.com/apache/tsfile/pull/682) in [apache/tsfile](https://github.com/apache/tsfile)
+4. 💪 Opened PR [#682](https://github.com/apache/tsfile/pull/682) in [apache/tsfile](https://github.com/apache/tsfile)
+5. 🎉 Merged PR [#16945](https://github.com/apache/iotdb/pull/16945) in [apache/iotdb](https://github.com/apache/iotdb)
 6. 🚀 Published release [Apache TsFile 2.2.0](https://github.com/apache/tsfile/releases/tag/v2.2.0) in [apache/tsfile](https://github.com/apache/tsfile)
-7. 💪 Opened PR [#16965](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+7. 💪 Opened PR [#16965](https://github.com/apache/iotdb/pull/16965) in [apache/iotdb](https://github.com/apache/iotdb)
 8. 🚀 Published release [Apache TsFile 1.1.3](https://github.com/apache/tsfile/releases/tag/v1.1.3) in [apache/tsfile](https://github.com/apache/tsfile)
-9. 💪 Opened PR [#16945](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-10. ❌ Merged PR [#16939](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+9. 💪 Opened PR [#16945](https://github.com/apache/iotdb/pull/16945) in [apache/iotdb](https://github.com/apache/iotdb)
+10. 🎉 Merged PR [#16939](https://github.com/apache/iotdb/pull/16939) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#955](https://github.com/apache/iotdb-docs/pull/955) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-2. ❌ Closed PR [#16524](https://github.com/apache/iotdb/pull/16524) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 💪 Opened PR [#955](https://github.com/apache/iotdb-docs/pull/955) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-4. 🎉 Merged PR [#16971](https://github.com/apache/iotdb/pull/16971) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🗣 Commented on [#7922](https://github.com/huggingface/datasets/issues/7922#issuecomment-3701962054) in [huggingface/datasets](https://github.com/huggingface/datasets)
-6. 💪 Opened PR [#16971](https://github.com/apache/iotdb/pull/16971) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🎉 Merged PR [#682](https://github.com/apache/tsfile/pull/682) in [apache/tsfile](https://github.com/apache/tsfile)
-8. 💪 Opened PR [#682](https://github.com/apache/tsfile/pull/682) in [apache/tsfile](https://github.com/apache/tsfile)
-9. 🎉 Merged PR [#16945](https://github.com/apache/iotdb/pull/16945) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🚀 Published release [Apache TsFile 2.2.0](https://github.com/apache/tsfile/releases/tag/v2.2.0) in [apache/tsfile](https://github.com/apache/tsfile)
+1. ❌ Closed PR [#13368](https://github.com/apache/iotdb/pull/13368) in [apache/iotdb](https://github.com/apache/iotdb)
+2. ❌ Closed PR [#14992](https://github.com/apache/iotdb/pull/14992) in [apache/iotdb](https://github.com/apache/iotdb)
+3. ❌ Closed PR [#13672](https://github.com/apache/iotdb/pull/13672) in [apache/iotdb](https://github.com/apache/iotdb)
+4. ❌ Closed PR [#14993](https://github.com/apache/iotdb/pull/14993) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🎉 Merged PR [#955](https://github.com/apache/iotdb-docs/pull/955) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
+6. ❌ Closed PR [#16524](https://github.com/apache/iotdb/pull/16524) in [apache/iotdb](https://github.com/apache/iotdb)
+7. 💪 Opened PR [#955](https://github.com/apache/iotdb-docs/pull/955) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
+8. 🎉 Merged PR [#16971](https://github.com/apache/iotdb/pull/16971) in [apache/iotdb](https://github.com/apache/iotdb)
+9. 🗣 Commented on [#7922](https://github.com/huggingface/datasets/issues/7922#issuecomment-3701962054) in [huggingface/datasets](https://github.com/huggingface/datasets)
+10. 💪 Opened PR [#16971](https://github.com/apache/iotdb/pull/16971) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17016](https://github.com/apache/iotdb/issues/17016#issuecomment-3741668967) in [apache/iotdb](https://github.com/apache/iotdb)
-2. ❌ Closed PR [#16935](https://github.com/apache/iotdb/pull/16935) in [apache/iotdb](https://github.com/apache/iotdb)
-3. ❌ Closed PR [#15](https://github.com/apache/iotdb-mcp-server/pull/15) in [apache/iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server)
-4. ❌ Closed PR [#17010](https://github.com/apache/iotdb/pull/17010) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 💪 Opened PR [#17010](https://github.com/apache/iotdb/pull/17010) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 💪 Opened PR [#43](https://github.com/apache/iotdb-client-csharp/pull/43) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-7. 🎉 Merged PR [#17001](https://github.com/apache/iotdb/pull/17001) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 💪 Opened PR [#17001](https://github.com/apache/iotdb/pull/17001) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🎉 Merged PR [#3273](https://github.com/apache/thrift/pull/3273) in [apache/thrift](https://github.com/apache/thrift)
-10. ❌ Closed PR [#40](https://github.com/apache/iotdb-client-csharp/pull/40) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
 <!--END_SECTION:activity-->
 
 <!--

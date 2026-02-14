@@ -6,7 +6,7 @@
    
 Joined Github **8** years ago.
 
-Since then I pushed **3133** commits, opened **49** issues, submitted **1343** pull requests, received **1** stars across **14** personal projects and contributed to **15** public repositories.
+Since then I pushed **3133** commits, opened **49** issues, submitted **1344** pull requests, received **1** stars across **14** personal projects and contributed to **15** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3305](https://github.com/apache/thrift/pull/3305) in [apache/thrift](https://github.com/apache/thrift)
-2. 🎉 Merged PR [#151](https://github.com/apache/iotdb-client-go/pull/151) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-3. 💪 Opened PR [#151](https://github.com/apache/iotdb-client-go/pull/151) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-4. 🔒 Closed issue [#149](https://github.com/apache/iotdb-client-go/issues/149) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-5. 🗣 Commented on [#149](https://github.com/apache/iotdb-client-go/issues/149#issuecomment-3876519977) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-6. 🗣 Commented on [#150](https://github.com/apache/iotdb-client-go/pull/150#issuecomment-3875164497) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-7. 🔒 Closed issue [#17155](https://github.com/apache/iotdb/issues/17155) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🗣 Commented on [#149](https://github.com/apache/iotdb-client-go/issues/149#issuecomment-3874862637) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-9. 🎉 Merged PR [#17187](https://github.com/apache/iotdb/pull/17187) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 💪 Opened PR [#17187](https://github.com/apache/iotdb/pull/17187) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

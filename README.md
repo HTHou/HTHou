@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#72](https://github.com/cmake-maven-plugin/cmake-maven-plugin/issues/72) in [cmake-maven-plugin/cmake-maven-plugin](https://github.com/cmake-maven-plugin/cmake-maven-plugin)
+2. 🎉 Merged PR [#3305](https://github.com/apache/thrift/pull/3305) in [apache/thrift](https://github.com/apache/thrift)
+3. 💪 Opened PR [#3305](https://github.com/apache/thrift/pull/3305) in [apache/thrift](https://github.com/apache/thrift)
+4. 🎉 Merged PR [#151](https://github.com/apache/iotdb-client-go/pull/151) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+5. 💪 Opened PR [#151](https://github.com/apache/iotdb-client-go/pull/151) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+6. 🔒 Closed issue [#149](https://github.com/apache/iotdb-client-go/issues/149) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+7. 🗣 Commented on [#149](https://github.com/apache/iotdb-client-go/issues/149#issuecomment-3876519977) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+8. 🗣 Commented on [#150](https://github.com/apache/iotdb-client-go/pull/150#issuecomment-3875164497) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+9. 🔒 Closed issue [#17155](https://github.com/apache/iotdb/issues/17155) in [apache/iotdb](https://github.com/apache/iotdb)
+10. 🗣 Commented on [#149](https://github.com/apache/iotdb-client-go/issues/149#issuecomment-3874862637) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
 <!--END_SECTION:activity-->
 
 <!--

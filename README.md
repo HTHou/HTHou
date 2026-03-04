@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **3137** commits, opened **50** issues, submitted **1348** pull requests, received **1** stars across **14** personal projects and contributed to **14** public repositories.
+Since then I pushed **3138** commits, opened **50** issues, submitted **1349** pull requests, received **1** stars across **14** personal projects and contributed to **14** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1028](https://github.com/apache/iotdb-docs/pull/1028) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-2. 💪 Opened PR [#1028](https://github.com/apache/iotdb-docs/pull/1028) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-3. 🚀 Published release [Apache IoTDB 2.0.7](https://github.com/apache/iotdb/releases/tag/v2.0.7) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🚀 Published release [Apache IoTDB 1.3.7](https://github.com/apache/iotdb/releases/tag/v1.3.7) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🗣 Commented on [#17251](https://github.com/apache/iotdb/issues/17251#issuecomment-3995864085) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🗣 Commented on [#17249](https://github.com/apache/iotdb/issues/17249#issuecomment-3995850941) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🗣 Commented on [#17251](https://github.com/apache/iotdb/issues/17251#issuecomment-3995847254) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🗣 Commented on [#17249](https://github.com/apache/iotdb/issues/17249#issuecomment-3994672145) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🗣 Commented on [#17240](https://github.com/apache/iotdb/issues/17240#issuecomment-3982664051) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🗣 Commented on [#17229](https://github.com/apache/iotdb/pull/17229#issuecomment-3982596038) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

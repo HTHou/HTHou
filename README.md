@@ -6,18 +6,18 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **3141** commits, opened **51** issues, submitted **1350** pull requests, received **1** stars across **14** personal projects and contributed to **15** public repositories.
+Since then I pushed **3141** commits, opened **51** issues, submitted **1351** pull requests, received **1** stars across **14** personal projects and contributed to **15** public repositories.
 
 Most used languages across my projects:
 
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B167.6%25)
-![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B110.4%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B167.4%25)
+![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B110.5%25)
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B13.8%25)
 ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B12.1%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B12%25)
 ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B11.6%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B11.2%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B111%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B111.1%25)
 
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17290](https://github.com/apache/iotdb/pull/17290) in [apache/iotdb](https://github.com/apache/iotdb)
-2. ❗ Opened issue [#265](https://github.com/apache/infrastructure-website/issues/265) in [apache/infrastructure-website](https://github.com/apache/infrastructure-website)
-3. 🔒 Closed issue [#17249](https://github.com/apache/iotdb/issues/17249) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🗣 Commented on [#17278](https://github.com/apache/iotdb/issues/17278#issuecomment-4036819627) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🎉 Merged PR [#17218](https://github.com/apache/iotdb/pull/17218) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🗣 Commented on [#17278](https://github.com/apache/iotdb/issues/17278#issuecomment-4022154547) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🎉 Merged PR [#17275](https://github.com/apache/iotdb/pull/17275) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 💪 Opened PR [#17275](https://github.com/apache/iotdb/pull/17275) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🗣 Commented on [#17251](https://github.com/apache/iotdb/issues/17251#issuecomment-4002588721) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🎉 Merged PR [#1028](https://github.com/apache/iotdb-docs/pull/1028) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
 <!--END_SECTION:activity-->
 
 <!--

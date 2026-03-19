@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#17317](https://github.com/apache/iotdb/issues/17317) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🎉 Merged PR [#17311](https://github.com/apache/iotdb/pull/17311) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 💪 Opened PR [#17311](https://github.com/apache/iotdb/pull/17311) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🗣 Commented on [#156](https://github.com/apache/iotdb-client-go/pull/156#issuecomment-4079173236) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+5. 💪 Opened PR [#17302](https://github.com/apache/iotdb/pull/17302) in [apache/iotdb](https://github.com/apache/iotdb)
+6. 🗣 Commented on [#155](https://github.com/apache/iotdb-client-go/pull/155#issuecomment-4052271194) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+7. 🗣 Commented on [#155](https://github.com/apache/iotdb-client-go/pull/155#issuecomment-4051784795) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+8. 💪 Opened PR [#17290](https://github.com/apache/iotdb/pull/17290) in [apache/iotdb](https://github.com/apache/iotdb)
+9. ❗ Opened issue [#265](https://github.com/apache/infrastructure-website/issues/265) in [apache/infrastructure-website](https://github.com/apache/infrastructure-website)
+10. 🔒 Closed issue [#17249](https://github.com/apache/iotdb/issues/17249) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

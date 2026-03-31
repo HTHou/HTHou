@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12537](https://github.com/apache/iotdb/issues/12537#issuecomment-4159264763) in [apache/iotdb](https://github.com/apache/iotdb)
-2. ℹ️ Assigned issue [#17344](https://github.com/apache/iotdb/issues/17344) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🎉 Merged PR [#17371](https://github.com/apache/iotdb/pull/17371) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🗣 Commented on [#17387](https://github.com/apache/iotdb/pull/17387#issuecomment-4151681929) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🗣 Commented on [#17387](https://github.com/apache/iotdb/pull/17387#issuecomment-4151665557) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🗣 Commented on [#17344](https://github.com/apache/iotdb/issues/17344#issuecomment-4151640215) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🗣 Commented on [#17387](https://github.com/apache/iotdb/pull/17387#issuecomment-4151601832) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🗣 Commented on [#17382](https://github.com/apache/iotdb/pull/17382#issuecomment-4148084881) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🗣 Commented on [#516](https://github.com/thulab/iot-benchmark/issues/516#issuecomment-4141577680) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-10. 💪 Opened PR [#17371](https://github.com/apache/iotdb/pull/17371) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

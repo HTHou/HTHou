@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **3147** commits, opened **51** issues, submitted **1359** pull requests, received **1** stars across **14** personal projects and contributed to **15** public repositories.
+Since then I pushed **3147** commits, opened **51** issues, submitted **1360** pull requests, received **1** stars across **14** personal projects and contributed to **15** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1073](https://github.com/apache/iotdb-docs/pull/1073) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-2. 🗣 Commented on [#17459](https://github.com/apache/iotdb/pull/17459#issuecomment-4234335352) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🗣 Commented on [#3390](https://github.com/apache/thrift/pull/3390#issuecomment-4233338180) in [apache/thrift](https://github.com/apache/thrift)
-4. 💪 Opened PR [#770](https://github.com/apache/tsfile/pull/770) in [apache/tsfile](https://github.com/apache/tsfile)
-5. 🗣 Commented on [#17381](https://github.com/apache/iotdb/pull/17381#issuecomment-4204430799) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🗣 Commented on [#17408](https://github.com/apache/iotdb/pull/17408#issuecomment-4204427301) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🗣 Commented on [#17364](https://github.com/apache/iotdb/pull/17364#issuecomment-4204424238) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🗣 Commented on [#159](https://github.com/apache/iotdb-client-go/issues/159#issuecomment-4196363442) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-9. 🗣 Commented on [#594](https://github.com/apache/tsfile/pull/594#issuecomment-4188666232) in [apache/tsfile](https://github.com/apache/tsfile)
-10. 🗣 Commented on [#622](https://github.com/apache/tsfile/pull/622#issuecomment-4188664721) in [apache/tsfile](https://github.com/apache/tsfile)
 <!--END_SECTION:activity-->
 
 <!--

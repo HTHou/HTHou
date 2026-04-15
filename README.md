@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#17163](https://github.com/apache/iotdb/issues/17163) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🗣 Commented on [#17163](https://github.com/apache/iotdb/issues/17163#issuecomment-4248902968) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🗣 Commented on [#152](https://github.com/apache/iotdb-client-go/issues/152#issuecomment-4248827392) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-4. 🔒 Closed issue [#152](https://github.com/apache/iotdb-client-go/issues/152) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-5. 🚀 Published release [Apache IoTDB Client Go 1.3.7](https://github.com/apache/iotdb-client-go/releases/tag/v1.3.7) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-6. 🚀 Published release [Apache IoTDB Client Go 2.0.8](https://github.com/apache/iotdb-client-go/releases/tag/v2.0.8) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-7. 💪 Opened PR [#17482](https://github.com/apache/iotdb/pull/17482) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 💪 Opened PR [#17481](https://github.com/apache/iotdb/pull/17481) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🗣 Commented on [#17464](https://github.com/apache/iotdb/pull/17464#issuecomment-4244966870) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🗣 Commented on [#131](https://github.com/Kimentanm/aptv/issues/131#issuecomment-4243840423) in [Kimentanm/aptv](https://github.com/Kimentanm/aptv)
+1. 🎉 Merged PR [#17482](https://github.com/apache/iotdb/pull/17482) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🔒 Closed issue [#17163](https://github.com/apache/iotdb/issues/17163) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🗣 Commented on [#17163](https://github.com/apache/iotdb/issues/17163#issuecomment-4248902968) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🗣 Commented on [#152](https://github.com/apache/iotdb-client-go/issues/152#issuecomment-4248827392) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+5. 🔒 Closed issue [#152](https://github.com/apache/iotdb-client-go/issues/152) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+6. 🚀 Published release [Apache IoTDB Client Go 1.3.7](https://github.com/apache/iotdb-client-go/releases/tag/v1.3.7) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+7. 🚀 Published release [Apache IoTDB Client Go 2.0.8](https://github.com/apache/iotdb-client-go/releases/tag/v2.0.8) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+8. 💪 Opened PR [#17482](https://github.com/apache/iotdb/pull/17482) in [apache/iotdb](https://github.com/apache/iotdb)
+9. 💪 Opened PR [#17481](https://github.com/apache/iotdb/pull/17481) in [apache/iotdb](https://github.com/apache/iotdb)
+10. 🗣 Commented on [#17464](https://github.com/apache/iotdb/pull/17464#issuecomment-4244966870) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

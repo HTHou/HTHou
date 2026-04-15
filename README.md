@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#782](https://github.com/apache/tsfile/pull/782) in [apache/tsfile](https://github.com/apache/tsfile)
+2. 💪 Opened PR [#782](https://github.com/apache/tsfile/pull/782) in [apache/tsfile](https://github.com/apache/tsfile)
+3. 🎉 Merged PR [#17482](https://github.com/apache/iotdb/pull/17482) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🔒 Closed issue [#17163](https://github.com/apache/iotdb/issues/17163) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🗣 Commented on [#17163](https://github.com/apache/iotdb/issues/17163#issuecomment-4248902968) in [apache/iotdb](https://github.com/apache/iotdb)
+6. 🗣 Commented on [#152](https://github.com/apache/iotdb-client-go/issues/152#issuecomment-4248827392) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+7. 🔒 Closed issue [#152](https://github.com/apache/iotdb-client-go/issues/152) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+8. 🚀 Published release [Apache IoTDB Client Go 1.3.7](https://github.com/apache/iotdb-client-go/releases/tag/v1.3.7) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+9. 🚀 Published release [Apache IoTDB Client Go 2.0.8](https://github.com/apache/iotdb-client-go/releases/tag/v2.0.8) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+10. 💪 Opened PR [#17482](https://github.com/apache/iotdb/pull/17482) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

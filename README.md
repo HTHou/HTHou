@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17464](https://github.com/apache/iotdb/pull/17464#issuecomment-4244966870) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🗣 Commented on [#131](https://github.com/Kimentanm/aptv/issues/131#issuecomment-4243840423) in [Kimentanm/aptv](https://github.com/Kimentanm/aptv)
-3. 🎉 Merged PR [#770](https://github.com/apache/tsfile/pull/770) in [apache/tsfile](https://github.com/apache/tsfile)
-4. 🎉 Merged PR [#17468](https://github.com/apache/iotdb/pull/17468) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 💪 Opened PR [#17468](https://github.com/apache/iotdb/pull/17468) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🎉 Merged PR [#1073](https://github.com/apache/iotdb-docs/pull/1073) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-7. 💪 Opened PR [#1073](https://github.com/apache/iotdb-docs/pull/1073) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-8. 🗣 Commented on [#17459](https://github.com/apache/iotdb/pull/17459#issuecomment-4234335352) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🗣 Commented on [#3390](https://github.com/apache/thrift/pull/3390#issuecomment-4233338180) in [apache/thrift](https://github.com/apache/thrift)
-10. 💪 Opened PR [#770](https://github.com/apache/tsfile/pull/770) in [apache/tsfile](https://github.com/apache/tsfile)
 <!--END_SECTION:activity-->
 
 <!--

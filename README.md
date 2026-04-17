@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **3153** commits, opened **51** issues, submitted **1364** pull requests, received **1** stars across **15** personal projects and contributed to **15** public repositories.
+Since then I pushed **3153** commits, opened **51** issues, submitted **1365** pull requests, received **1** stars across **15** personal projects and contributed to **15** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#785](https://github.com/apache/tsfile/pull/785) in [apache/tsfile](https://github.com/apache/tsfile)
-2. 🔒 Closed issue [#47](https://github.com/apache/iotdb-client-csharp/issues/47) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-3. 🎉 Merged PR [#782](https://github.com/apache/tsfile/pull/782) in [apache/tsfile](https://github.com/apache/tsfile)
-4. 💪 Opened PR [#782](https://github.com/apache/tsfile/pull/782) in [apache/tsfile](https://github.com/apache/tsfile)
-5. 🎉 Merged PR [#17482](https://github.com/apache/iotdb/pull/17482) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🔒 Closed issue [#17163](https://github.com/apache/iotdb/issues/17163) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🗣 Commented on [#17163](https://github.com/apache/iotdb/issues/17163#issuecomment-4248902968) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🗣 Commented on [#152](https://github.com/apache/iotdb-client-go/issues/152#issuecomment-4248827392) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-9. 🔒 Closed issue [#152](https://github.com/apache/iotdb-client-go/issues/152) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-10. 🚀 Published release [Apache IoTDB Client Go 1.3.7](https://github.com/apache/iotdb-client-go/releases/tag/v1.3.7) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
 <!--END_SECTION:activity-->
 
 <!--

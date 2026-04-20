@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#786](https://github.com/apache/tsfile/pull/786) in [apache/tsfile](https://github.com/apache/tsfile)
-2. 🎉 Merged PR [#785](https://github.com/apache/tsfile/pull/785) in [apache/tsfile](https://github.com/apache/tsfile)
-3. 💪 Opened PR [#785](https://github.com/apache/tsfile/pull/785) in [apache/tsfile](https://github.com/apache/tsfile)
-4. 🔒 Closed issue [#47](https://github.com/apache/iotdb-client-csharp/issues/47) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-5. 🎉 Merged PR [#782](https://github.com/apache/tsfile/pull/782) in [apache/tsfile](https://github.com/apache/tsfile)
-6. 💪 Opened PR [#782](https://github.com/apache/tsfile/pull/782) in [apache/tsfile](https://github.com/apache/tsfile)
-7. 🎉 Merged PR [#17482](https://github.com/apache/iotdb/pull/17482) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🔒 Closed issue [#17163](https://github.com/apache/iotdb/issues/17163) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🗣 Commented on [#17163](https://github.com/apache/iotdb/issues/17163#issuecomment-4248902968) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🗣 Commented on [#152](https://github.com/apache/iotdb-client-go/issues/152#issuecomment-4248827392) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+1. 🗣 Commented on [#17520](https://github.com/apache/iotdb/issues/17520#issuecomment-4278820260) in [apache/iotdb](https://github.com/apache/iotdb)
+2. ❌ Closed PR [#2](https://github.com/apache/iotdb-tsfile-viewer/pull/2) in [apache/iotdb-tsfile-viewer](https://github.com/apache/iotdb-tsfile-viewer)
+3. ❌ Closed PR [#3](https://github.com/apache/iotdb-tsfile-viewer/pull/3) in [apache/iotdb-tsfile-viewer](https://github.com/apache/iotdb-tsfile-viewer)
+4. ❌ Closed PR [#4](https://github.com/apache/iotdb-tsfile-viewer/pull/4) in [apache/iotdb-tsfile-viewer](https://github.com/apache/iotdb-tsfile-viewer)
+5. ❌ Closed PR [#11](https://github.com/apache/iotdb-tsfile-viewer/pull/11) in [apache/iotdb-tsfile-viewer](https://github.com/apache/iotdb-tsfile-viewer)
+6. 🗣 Commented on [#4](https://github.com/apache/iotdb-tsfile-viewer/pull/4#issuecomment-4278757909) in [apache/iotdb-tsfile-viewer](https://github.com/apache/iotdb-tsfile-viewer)
+7. 🗣 Commented on [#2](https://github.com/apache/iotdb-tsfile-viewer/pull/2#issuecomment-4278756256) in [apache/iotdb-tsfile-viewer](https://github.com/apache/iotdb-tsfile-viewer)
+8. 🗣 Commented on [#3](https://github.com/apache/iotdb-tsfile-viewer/pull/3#issuecomment-4278754181) in [apache/iotdb-tsfile-viewer](https://github.com/apache/iotdb-tsfile-viewer)
+9. 🗣 Commented on [#11](https://github.com/apache/iotdb-tsfile-viewer/pull/11#issuecomment-4278751328) in [apache/iotdb-tsfile-viewer](https://github.com/apache/iotdb-tsfile-viewer)
+10. 🎉 Merged PR [#786](https://github.com/apache/tsfile/pull/786) in [apache/tsfile](https://github.com/apache/tsfile)
 <!--END_SECTION:activity-->
 
 <!--

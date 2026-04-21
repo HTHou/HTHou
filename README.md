@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/apache/iotdb-client-csharp/issues/50#issuecomment-4280012731) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-2. 🗣 Commented on [#17500](https://github.com/apache/iotdb/pull/17500#issuecomment-4279403859) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🗣 Commented on [#17514](https://github.com/apache/iotdb/pull/17514#issuecomment-4279401073) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🗣 Commented on [#17520](https://github.com/apache/iotdb/issues/17520#issuecomment-4278820260) in [apache/iotdb](https://github.com/apache/iotdb)
-5. ❌ Closed PR [#2](https://github.com/apache/iotdb-tsfile-viewer/pull/2) in [apache/iotdb-tsfile-viewer](https://github.com/apache/iotdb-tsfile-viewer)
-6. ❌ Closed PR [#3](https://github.com/apache/iotdb-tsfile-viewer/pull/3) in [apache/iotdb-tsfile-viewer](https://github.com/apache/iotdb-tsfile-viewer)
-7. ❌ Closed PR [#4](https://github.com/apache/iotdb-tsfile-viewer/pull/4) in [apache/iotdb-tsfile-viewer](https://github.com/apache/iotdb-tsfile-viewer)
-8. ❌ Closed PR [#11](https://github.com/apache/iotdb-tsfile-viewer/pull/11) in [apache/iotdb-tsfile-viewer](https://github.com/apache/iotdb-tsfile-viewer)
-9. 🗣 Commented on [#4](https://github.com/apache/iotdb-tsfile-viewer/pull/4#issuecomment-4278757909) in [apache/iotdb-tsfile-viewer](https://github.com/apache/iotdb-tsfile-viewer)
-10. 🗣 Commented on [#2](https://github.com/apache/iotdb-tsfile-viewer/pull/2#issuecomment-4278756256) in [apache/iotdb-tsfile-viewer](https://github.com/apache/iotdb-tsfile-viewer)
 <!--END_SECTION:activity-->
 
 <!--

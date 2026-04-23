@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#519](https://github.com/thulab/iot-benchmark/pull/519) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-2. 💪 Opened PR [#519](https://github.com/thulab/iot-benchmark/pull/519) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-3. 🗣 Commented on [#17520](https://github.com/apache/iotdb/issues/17520#issuecomment-4293495625) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 💪 Opened PR [#2078](https://github.com/n9e/fe/pull/2078) in [n9e/fe](https://github.com/n9e/fe)
-5. 💪 Opened PR [#3139](https://github.com/ccfos/nightingale/pull/3139) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
-6. 🗣 Commented on [#790](https://github.com/apache/tsfile/pull/790#issuecomment-4287892624) in [apache/tsfile](https://github.com/apache/tsfile)
-7. 🎉 Merged PR [#52](https://github.com/apache/iotdb-client-csharp/pull/52) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-8. 🗣 Commented on [#50](https://github.com/apache/iotdb-client-csharp/issues/50#issuecomment-4285702285) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-9. 💪 Opened PR [#52](https://github.com/apache/iotdb-client-csharp/pull/52) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-10. 🗣 Commented on [#18791](https://github.com/openai/codex/issues/18791#issuecomment-4285524505) in [openai/codex](https://github.com/openai/codex)
+1. 🎉 Merged PR [#513](https://github.com/thulab/iot-benchmark/pull/513) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
+2. 🎉 Merged PR [#519](https://github.com/thulab/iot-benchmark/pull/519) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
+3. 💪 Opened PR [#519](https://github.com/thulab/iot-benchmark/pull/519) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
+4. 🗣 Commented on [#17520](https://github.com/apache/iotdb/issues/17520#issuecomment-4293495625) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 💪 Opened PR [#2078](https://github.com/n9e/fe/pull/2078) in [n9e/fe](https://github.com/n9e/fe)
+6. 💪 Opened PR [#3139](https://github.com/ccfos/nightingale/pull/3139) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
+7. 🗣 Commented on [#790](https://github.com/apache/tsfile/pull/790#issuecomment-4287892624) in [apache/tsfile](https://github.com/apache/tsfile)
+8. 🎉 Merged PR [#52](https://github.com/apache/iotdb-client-csharp/pull/52) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
+9. 🗣 Commented on [#50](https://github.com/apache/iotdb-client-csharp/issues/50#issuecomment-4285702285) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
+10. 💪 Opened PR [#52](https://github.com/apache/iotdb-client-csharp/pull/52) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
 <!--END_SECTION:activity-->
 
 <!--

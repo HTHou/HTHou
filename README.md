@@ -10,14 +10,14 @@ Since then I pushed **3156** commits, opened **51** issues, submitted **1369** p
 
 Most used languages across my projects:
 
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B156.5%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B110%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B156.3%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B19.9%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B18.8%25)
 ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B14.4%25)
-![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B13.1%25)
+![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B13.2%25)
 ![Less](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%231d365d&message=Less%EF%B8%B13%25)
 ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B11.8%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B112.1%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B112.2%25)
 
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17520](https://github.com/apache/iotdb/issues/17520#issuecomment-4293495625) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 💪 Opened PR [#2078](https://github.com/n9e/fe/pull/2078) in [n9e/fe](https://github.com/n9e/fe)
-3. 💪 Opened PR [#3139](https://github.com/ccfos/nightingale/pull/3139) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
-4. 🗣 Commented on [#790](https://github.com/apache/tsfile/pull/790#issuecomment-4287892624) in [apache/tsfile](https://github.com/apache/tsfile)
-5. 🎉 Merged PR [#52](https://github.com/apache/iotdb-client-csharp/pull/52) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-6. 🗣 Commented on [#50](https://github.com/apache/iotdb-client-csharp/issues/50#issuecomment-4285702285) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-7. 💪 Opened PR [#52](https://github.com/apache/iotdb-client-csharp/pull/52) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-8. 🗣 Commented on [#18791](https://github.com/openai/codex/issues/18791#issuecomment-4285524505) in [openai/codex](https://github.com/openai/codex)
-9. 🗣 Commented on [#50](https://github.com/apache/iotdb-client-csharp/issues/50#issuecomment-4280012731) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-10. 🗣 Commented on [#17500](https://github.com/apache/iotdb/pull/17500#issuecomment-4279403859) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

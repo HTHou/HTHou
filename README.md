@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **3159** commits, opened **51** issues, submitted **1370** pull requests, received **1** stars across **17** personal projects and contributed to **18** public repositories.
+Since then I pushed **3162** commits, opened **51** issues, submitted **1370** pull requests, received **1** stars across **17** personal projects and contributed to **18** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#513](https://github.com/thulab/iot-benchmark/pull/513) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-2. 🎉 Merged PR [#519](https://github.com/thulab/iot-benchmark/pull/519) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-3. 💪 Opened PR [#519](https://github.com/thulab/iot-benchmark/pull/519) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-4. 🗣 Commented on [#17520](https://github.com/apache/iotdb/issues/17520#issuecomment-4293495625) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 💪 Opened PR [#2078](https://github.com/n9e/fe/pull/2078) in [n9e/fe](https://github.com/n9e/fe)
-6. 💪 Opened PR [#3139](https://github.com/ccfos/nightingale/pull/3139) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
-7. 🗣 Commented on [#790](https://github.com/apache/tsfile/pull/790#issuecomment-4287892624) in [apache/tsfile](https://github.com/apache/tsfile)
-8. 🎉 Merged PR [#52](https://github.com/apache/iotdb-client-csharp/pull/52) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-9. 🗣 Commented on [#50](https://github.com/apache/iotdb-client-csharp/issues/50#issuecomment-4285702285) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-10. 💪 Opened PR [#52](https://github.com/apache/iotdb-client-csharp/pull/52) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
 <!--END_SECTION:activity-->
 
 <!--

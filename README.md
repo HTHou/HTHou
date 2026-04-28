@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4212** commits, opened **51** issues, submitted **1370** pull requests, received **1** stars across **17** personal projects and contributed to **19** public repositories.
+Since then I pushed **4212** commits, opened **51** issues, submitted **1370** pull requests, received **1** stars across **17** personal projects and contributed to **18** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/apache/iotdb-client-csharp/issues/50#issuecomment-4325530724) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-2. ❌ Closed PR [#598](https://github.com/apache/tsfile/pull/598) in [apache/tsfile](https://github.com/apache/tsfile)
-3. 🗣 Commented on [#156](https://github.com/apache/iotdb-client-go/pull/156#issuecomment-4325123628) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-4. 🗣 Commented on [#36](https://github.com/apache/iotdb-client-csharp/issues/36#issuecomment-4325104878) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-5. 🎉 Merged PR [#513](https://github.com/thulab/iot-benchmark/pull/513) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-6. 🎉 Merged PR [#519](https://github.com/thulab/iot-benchmark/pull/519) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-7. 💪 Opened PR [#519](https://github.com/thulab/iot-benchmark/pull/519) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-8. 🗣 Commented on [#17520](https://github.com/apache/iotdb/issues/17520#issuecomment-4293495625) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 💪 Opened PR [#2078](https://github.com/n9e/fe/pull/2078) in [n9e/fe](https://github.com/n9e/fe)
-10. 💪 Opened PR [#3139](https://github.com/ccfos/nightingale/pull/3139) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
 <!--END_SECTION:activity-->
 
 <!--

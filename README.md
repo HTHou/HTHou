@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4212** commits, opened **51** issues, submitted **1370** pull requests, received **1** stars across **17** personal projects and contributed to **18** public repositories.
+Since then I pushed **4213** commits, opened **51** issues, submitted **1371** pull requests, received **1** stars across **17** personal projects and contributed to **18** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/apache/tsfile-viewer/issues/12#issuecomment-4340529906) in [apache/tsfile-viewer](https://github.com/apache/tsfile-viewer)
-2. 🔒 Closed issue [#12](https://github.com/apache/tsfile-viewer/issues/12) in [apache/tsfile-viewer](https://github.com/apache/tsfile-viewer)
-3. 🎉 Merged PR [#16](https://github.com/apache/tsfile-viewer/pull/16) in [apache/tsfile-viewer](https://github.com/apache/tsfile-viewer)
-4. 💪 Opened PR [#16](https://github.com/apache/tsfile-viewer/pull/16) in [apache/tsfile-viewer](https://github.com/apache/tsfile-viewer)
-5. 🗣 Commented on [#54](https://github.com/apache/iotdb-client-csharp/issues/54#issuecomment-4333157057) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-6. 🗣 Commented on [#55](https://github.com/apache/iotdb-client-csharp/issues/55#issuecomment-4333157072) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-7. 🗣 Commented on [#53](https://github.com/apache/iotdb-client-csharp/issues/53#issuecomment-4333157063) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-8. 🗣 Commented on [#50](https://github.com/apache/iotdb-client-csharp/issues/50#issuecomment-4325530724) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-9. ❌ Closed PR [#598](https://github.com/apache/tsfile/pull/598) in [apache/tsfile](https://github.com/apache/tsfile)
-10. 🗣 Commented on [#156](https://github.com/apache/iotdb-client-go/pull/156#issuecomment-4325123628) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
 <!--END_SECTION:activity-->
 
 <!--

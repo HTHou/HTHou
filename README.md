@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/apache/iotdb-client-csharp/issues/54#issuecomment-4333157057) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-2. 🗣 Commented on [#55](https://github.com/apache/iotdb-client-csharp/issues/55#issuecomment-4333157072) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-3. 🗣 Commented on [#53](https://github.com/apache/iotdb-client-csharp/issues/53#issuecomment-4333157063) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-4. 🗣 Commented on [#50](https://github.com/apache/iotdb-client-csharp/issues/50#issuecomment-4325530724) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-5. ❌ Closed PR [#598](https://github.com/apache/tsfile/pull/598) in [apache/tsfile](https://github.com/apache/tsfile)
-6. 🗣 Commented on [#156](https://github.com/apache/iotdb-client-go/pull/156#issuecomment-4325123628) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-7. 🗣 Commented on [#36](https://github.com/apache/iotdb-client-csharp/issues/36#issuecomment-4325104878) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-8. 🎉 Merged PR [#513](https://github.com/thulab/iot-benchmark/pull/513) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-9. 🎉 Merged PR [#519](https://github.com/thulab/iot-benchmark/pull/519) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-10. 💪 Opened PR [#519](https://github.com/thulab/iot-benchmark/pull/519) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
 <!--END_SECTION:activity-->
 
 <!--

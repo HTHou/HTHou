@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4213** commits, opened **52** issues, submitted **1371** pull requests, received **1** stars across **17** personal projects and contributed to **19** public repositories.
+Since then I pushed **4213** commits, opened **53** issues, submitted **1371** pull requests, received **1** stars across **17** personal projects and contributed to **20** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4370387238) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-2. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4370211577) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-3. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4369630014) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-4. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4368836469) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-5. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4368739906) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-6. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4368161379) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-7. 🗣 Commented on [#165](https://github.com/Kimentanm/aptv/issues/165#issuecomment-4367946038) in [Kimentanm/aptv](https://github.com/Kimentanm/aptv)
-8. ❗ Opened issue [#906](https://github.com/kingslay/KSPlayer/issues/906) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-9. 🗣 Commented on [#17594](https://github.com/apache/iotdb/issues/17594#issuecomment-4367733907) in [apache/iotdb](https://github.com/apache/iotdb)
-10. ℹ️ Assigned issue [#17594](https://github.com/apache/iotdb/issues/17594) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

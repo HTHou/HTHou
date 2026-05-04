@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4213** commits, opened **51** issues, submitted **1371** pull requests, received **1** stars across **17** personal projects and contributed to **18** public repositories.
+Since then I pushed **4213** commits, opened **52** issues, submitted **1371** pull requests, received **1** stars across **17** personal projects and contributed to **19** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17594](https://github.com/apache/iotdb/issues/17594#issuecomment-4367733907) in [apache/iotdb](https://github.com/apache/iotdb)
-2. ℹ️ Assigned issue [#17594](https://github.com/apache/iotdb/issues/17594) in [apache/iotdb](https://github.com/apache/iotdb)
-3. ❗ Opened issue [#165](https://github.com/Kimentanm/aptv/issues/165) in [Kimentanm/aptv](https://github.com/Kimentanm/aptv)
-4. 🗣 Commented on [#2078](https://github.com/n9e/fe/pull/2078#issuecomment-4349364117) in [n9e/fe](https://github.com/n9e/fe)
-5. 🗣 Commented on [#12](https://github.com/apache/tsfile-viewer/issues/12#issuecomment-4340529906) in [apache/tsfile-viewer](https://github.com/apache/tsfile-viewer)
-6. 🔒 Closed issue [#12](https://github.com/apache/tsfile-viewer/issues/12) in [apache/tsfile-viewer](https://github.com/apache/tsfile-viewer)
-7. 🎉 Merged PR [#16](https://github.com/apache/tsfile-viewer/pull/16) in [apache/tsfile-viewer](https://github.com/apache/tsfile-viewer)
-8. 💪 Opened PR [#16](https://github.com/apache/tsfile-viewer/pull/16) in [apache/tsfile-viewer](https://github.com/apache/tsfile-viewer)
-9. 🗣 Commented on [#54](https://github.com/apache/iotdb-client-csharp/issues/54#issuecomment-4333157057) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-10. 🗣 Commented on [#55](https://github.com/apache/iotdb-client-csharp/issues/55#issuecomment-4333157072) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
 <!--END_SECTION:activity-->
 
 <!--

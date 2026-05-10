@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17611](https://github.com/apache/iotdb/pull/17611#issuecomment-4404807668) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4404282411) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-3. ❌ Closed PR [#5409](https://github.com/apache/iotdb/pull/5409) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🗣 Commented on [#12092](https://github.com/apache/iotdb/pull/12092#issuecomment-4396096112) in [apache/iotdb](https://github.com/apache/iotdb)
-5. ❌ Closed PR [#12092](https://github.com/apache/iotdb/pull/12092) in [apache/iotdb](https://github.com/apache/iotdb)
-6. ❌ Closed PR [#12983](https://github.com/apache/iotdb/pull/12983) in [apache/iotdb](https://github.com/apache/iotdb)
-7. ❌ Closed PR [#12708](https://github.com/apache/iotdb/pull/12708) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🗣 Commented on [#6431](https://github.com/apache/iotdb/pull/6431#issuecomment-4396071397) in [apache/iotdb](https://github.com/apache/iotdb)
-9. ❌ Closed PR [#6431](https://github.com/apache/iotdb/pull/6431) in [apache/iotdb](https://github.com/apache/iotdb)
-10. ❌ Closed PR [#2702](https://github.com/apache/iotdb/pull/2702) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

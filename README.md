@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#166](https://github.com/Kimentanm/aptv/issues/166) in [Kimentanm/aptv](https://github.com/Kimentanm/aptv)
-2. ℹ️ Assigned issue [#17630](https://github.com/apache/iotdb/issues/17630) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🗣 Commented on [#17611](https://github.com/apache/iotdb/pull/17611#issuecomment-4404807668) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4404282411) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-5. ❌ Closed PR [#5409](https://github.com/apache/iotdb/pull/5409) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🗣 Commented on [#12092](https://github.com/apache/iotdb/pull/12092#issuecomment-4396096112) in [apache/iotdb](https://github.com/apache/iotdb)
-7. ❌ Closed PR [#12092](https://github.com/apache/iotdb/pull/12092) in [apache/iotdb](https://github.com/apache/iotdb)
-8. ❌ Closed PR [#12983](https://github.com/apache/iotdb/pull/12983) in [apache/iotdb](https://github.com/apache/iotdb)
-9. ❌ Closed PR [#12708](https://github.com/apache/iotdb/pull/12708) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🗣 Commented on [#6431](https://github.com/apache/iotdb/pull/6431#issuecomment-4396071397) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 🔒 Closed issue [#17630](https://github.com/apache/iotdb/issues/17630) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🗣 Commented on [#17630](https://github.com/apache/iotdb/issues/17630#issuecomment-4426668287) in [apache/iotdb](https://github.com/apache/iotdb)
+3. ❗ Opened issue [#166](https://github.com/Kimentanm/aptv/issues/166) in [Kimentanm/aptv](https://github.com/Kimentanm/aptv)
+4. ℹ️ Assigned issue [#17630](https://github.com/apache/iotdb/issues/17630) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🗣 Commented on [#17611](https://github.com/apache/iotdb/pull/17611#issuecomment-4404807668) in [apache/iotdb](https://github.com/apache/iotdb)
+6. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4404282411) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
+7. ❌ Closed PR [#5409](https://github.com/apache/iotdb/pull/5409) in [apache/iotdb](https://github.com/apache/iotdb)
+8. 🗣 Commented on [#12092](https://github.com/apache/iotdb/pull/12092#issuecomment-4396096112) in [apache/iotdb](https://github.com/apache/iotdb)
+9. ❌ Closed PR [#12092](https://github.com/apache/iotdb/pull/12092) in [apache/iotdb](https://github.com/apache/iotdb)
+10. ❌ Closed PR [#12983](https://github.com/apache/iotdb/pull/12983) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

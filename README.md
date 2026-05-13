@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4213** commits, opened **54** issues, submitted **1374** pull requests, received **1** stars across **17** personal projects and contributed to **21** public repositories.
+Since then I pushed **4213** commits, opened **54** issues, submitted **1375** pull requests, received **1** stars across **17** personal projects and contributed to **21** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17651](https://github.com/apache/iotdb/pull/17651) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4431999150) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-3. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4430883317) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-4. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4430207556) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-5. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4430148952) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-6. 💪 Opened PR [#57](https://github.com/apache/iotdb-client-csharp/pull/57) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-7. 💪 Opened PR [#160](https://github.com/apache/iotdb-client-go/pull/160) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-8. 🔒 Closed issue [#17630](https://github.com/apache/iotdb/issues/17630) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🗣 Commented on [#17630](https://github.com/apache/iotdb/issues/17630#issuecomment-4426668287) in [apache/iotdb](https://github.com/apache/iotdb)
-10. ❗ Opened issue [#166](https://github.com/Kimentanm/aptv/issues/166) in [Kimentanm/aptv](https://github.com/Kimentanm/aptv)
 <!--END_SECTION:activity-->
 
 <!--

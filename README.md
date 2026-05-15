@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17651](https://github.com/apache/iotdb/pull/17651) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🔒 Closed issue [#165](https://github.com/Kimentanm/aptv/issues/165) in [Kimentanm/aptv](https://github.com/Kimentanm/aptv)
-3. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4436729500) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-4. 💪 Opened PR [#17651](https://github.com/apache/iotdb/pull/17651) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4431999150) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-6. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4430883317) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-7. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4430207556) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-8. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4430148952) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-9. 💪 Opened PR [#57](https://github.com/apache/iotdb-client-csharp/pull/57) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-10. 💪 Opened PR [#160](https://github.com/apache/iotdb-client-go/pull/160) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+1. ℹ️ Assigned issue [#17433](https://github.com/apache/iotdb/issues/17433) in [apache/iotdb](https://github.com/apache/iotdb)
+2. ℹ️ Assigned issue [#17610](https://github.com/apache/iotdb/issues/17610) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🎉 Merged PR [#17651](https://github.com/apache/iotdb/pull/17651) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🔒 Closed issue [#165](https://github.com/Kimentanm/aptv/issues/165) in [Kimentanm/aptv](https://github.com/Kimentanm/aptv)
+5. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4436729500) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
+6. 💪 Opened PR [#17651](https://github.com/apache/iotdb/pull/17651) in [apache/iotdb](https://github.com/apache/iotdb)
+7. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4431999150) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
+8. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4430883317) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
+9. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4430207556) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
+10. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4430148952) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
 <!--END_SECTION:activity-->
 
 <!--

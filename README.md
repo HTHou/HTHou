@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#17433](https://github.com/apache/iotdb/issues/17433) in [apache/iotdb](https://github.com/apache/iotdb)
-2. ℹ️ Assigned issue [#17610](https://github.com/apache/iotdb/issues/17610) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🎉 Merged PR [#17651](https://github.com/apache/iotdb/pull/17651) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🔒 Closed issue [#165](https://github.com/Kimentanm/aptv/issues/165) in [Kimentanm/aptv](https://github.com/Kimentanm/aptv)
-5. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4436729500) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-6. 💪 Opened PR [#17651](https://github.com/apache/iotdb/pull/17651) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4431999150) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-8. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4430883317) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-9. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4430207556) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
-10. 🗣 Commented on [#906](https://github.com/kingslay/KSPlayer/issues/906#issuecomment-4430148952) in [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)
 <!--END_SECTION:activity-->
 
 <!--

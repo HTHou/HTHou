@@ -6,13 +6,13 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4219** commits, opened **54** issues, submitted **1379** pull requests, received **1** stars across **18** personal projects and contributed to **23** public repositories.
+Since then I pushed **4220** commits, opened **54** issues, submitted **1379** pull requests, received **1** stars across **18** personal projects and contributed to **23** public repositories.
 
 Most used languages across my projects:
 
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B158.2%25)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B19.4%25)
-![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B18.4%25)
+![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B18.3%25)
 ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B14.2%25)
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B13%25)
 ![Less](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%231d365d&message=Less%EF%B8%B12.8%25)
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1462](https://github.com/apache/ratis/pull/1462) in [apache/ratis](https://github.com/apache/ratis)
-2. 🗣 Commented on [#1462](https://github.com/apache/ratis/pull/1462#issuecomment-4514255822) in [apache/ratis](https://github.com/apache/ratis)
-3. 💪 Opened PR [#1462](https://github.com/apache/ratis/pull/1462) in [apache/ratis](https://github.com/apache/ratis)
-4. 🗣 Commented on [#17708](https://github.com/apache/iotdb/pull/17708#issuecomment-4476122064) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 💪 Opened PR [#7723](https://github.com/github/advisory-database/pull/7723) in [github/advisory-database](https://github.com/github/advisory-database)
-6. 🎉 Merged PR [#818](https://github.com/apache/tsfile/pull/818) in [apache/tsfile](https://github.com/apache/tsfile)
-7. 🎉 Merged PR [#17701](https://github.com/apache/iotdb/pull/17701) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 💪 Opened PR [#818](https://github.com/apache/tsfile/pull/818) in [apache/tsfile](https://github.com/apache/tsfile)
-9. 💪 Opened PR [#17701](https://github.com/apache/iotdb/pull/17701) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🗣 Commented on [#17611](https://github.com/apache/iotdb/pull/17611#issuecomment-4473759759) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

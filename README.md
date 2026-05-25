@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4220** commits, opened **54** issues, submitted **1379** pull requests, received **1** stars across **18** personal projects and contributed to **23** public repositories.
+Since then I pushed **4220** commits, opened **54** issues, submitted **1380** pull requests, received **1** stars across **18** personal projects and contributed to **23** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17751](https://github.com/apache/iotdb/pull/17751) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🎉 Merged PR [#1462](https://github.com/apache/ratis/pull/1462) in [apache/ratis](https://github.com/apache/ratis)
-3. 🗣 Commented on [#1462](https://github.com/apache/ratis/pull/1462#issuecomment-4514255822) in [apache/ratis](https://github.com/apache/ratis)
-4. 💪 Opened PR [#1462](https://github.com/apache/ratis/pull/1462) in [apache/ratis](https://github.com/apache/ratis)
-5. 🗣 Commented on [#17708](https://github.com/apache/iotdb/pull/17708#issuecomment-4476122064) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 💪 Opened PR [#7723](https://github.com/github/advisory-database/pull/7723) in [github/advisory-database](https://github.com/github/advisory-database)
-7. 🎉 Merged PR [#818](https://github.com/apache/tsfile/pull/818) in [apache/tsfile](https://github.com/apache/tsfile)
-8. 🎉 Merged PR [#17701](https://github.com/apache/iotdb/pull/17701) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 💪 Opened PR [#818](https://github.com/apache/tsfile/pull/818) in [apache/tsfile](https://github.com/apache/tsfile)
-10. 💪 Opened PR [#17701](https://github.com/apache/iotdb/pull/17701) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

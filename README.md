@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3139](https://github.com/ccfos/nightingale/pull/3139) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
+2. 🎉 Merged PR [#17760](https://github.com/apache/iotdb/pull/17760) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🎉 Merged PR [#17757](https://github.com/apache/iotdb/pull/17757) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 💪 Opened PR [#17760](https://github.com/apache/iotdb/pull/17760) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🎉 Merged PR [#17751](https://github.com/apache/iotdb/pull/17751) in [apache/iotdb](https://github.com/apache/iotdb)
+6. 💪 Opened PR [#17757](https://github.com/apache/iotdb/pull/17757) in [apache/iotdb](https://github.com/apache/iotdb)
+7. 💪 Opened PR [#17751](https://github.com/apache/iotdb/pull/17751) in [apache/iotdb](https://github.com/apache/iotdb)
+8. 🎉 Merged PR [#1462](https://github.com/apache/ratis/pull/1462) in [apache/ratis](https://github.com/apache/ratis)
+9. 🗣 Commented on [#1462](https://github.com/apache/ratis/pull/1462#issuecomment-4514255822) in [apache/ratis](https://github.com/apache/ratis)
+10. 💪 Opened PR [#1462](https://github.com/apache/ratis/pull/1462) in [apache/ratis](https://github.com/apache/ratis)
 <!--END_SECTION:activity-->
 
 <!--

@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/issues/16) in [zzzz0317/beijing-unicom-iptv-playlist](https://github.com/zzzz0317/beijing-unicom-iptv-playlist)
-2. ❌ Closed PR [#17784](https://github.com/apache/iotdb/pull/17784) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🗣 Commented on [#3139](https://github.com/ccfos/nightingale/pull/3139#issuecomment-4538885835) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
-4. 🎉 Merged PR [#3139](https://github.com/ccfos/nightingale/pull/3139) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
-5. 🎉 Merged PR [#17760](https://github.com/apache/iotdb/pull/17760) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🎉 Merged PR [#17757](https://github.com/apache/iotdb/pull/17757) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 💪 Opened PR [#17760](https://github.com/apache/iotdb/pull/17760) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🎉 Merged PR [#17751](https://github.com/apache/iotdb/pull/17751) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 💪 Opened PR [#17757](https://github.com/apache/iotdb/pull/17757) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 💪 Opened PR [#17751](https://github.com/apache/iotdb/pull/17751) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

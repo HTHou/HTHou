@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4222** commits, opened **55** issues, submitted **1382** pull requests, received **1** stars across **18** personal projects and contributed to **24** public repositories.
+Since then I pushed **4222** commits, opened **56** issues, submitted **1382** pull requests, received **1** stars across **18** personal projects and contributed to **25** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#8566](https://github.com/dependency-check/DependencyCheck/issues/8566) in [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck)
-2. ❗ Opened issue [#8566](https://github.com/dependency-check/DependencyCheck/issues/8566) in [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck)
-3. ❗ Opened issue [#16](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/issues/16) in [zzzz0317/beijing-unicom-iptv-playlist](https://github.com/zzzz0317/beijing-unicom-iptv-playlist)
-4. ❌ Closed PR [#17784](https://github.com/apache/iotdb/pull/17784) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🗣 Commented on [#3139](https://github.com/ccfos/nightingale/pull/3139#issuecomment-4538885835) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
-6. 🎉 Merged PR [#3139](https://github.com/ccfos/nightingale/pull/3139) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
-7. 🎉 Merged PR [#17760](https://github.com/apache/iotdb/pull/17760) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🎉 Merged PR [#17757](https://github.com/apache/iotdb/pull/17757) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 💪 Opened PR [#17760](https://github.com/apache/iotdb/pull/17760) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🎉 Merged PR [#17751](https://github.com/apache/iotdb/pull/17751) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#17823](https://github.com/apache/iotdb/pull/17823#issuecomment-4608438757) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🎉 Merged PR [#7723](https://github.com/github/advisory-database/pull/7723) in [github/advisory-database](https://github.com/github/advisory-database)
+3. ℹ️ Labeled issue [#8566](https://github.com/dependency-check/DependencyCheck/issues/8566) in [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck)
+4. ❗ Opened issue [#8566](https://github.com/dependency-check/DependencyCheck/issues/8566) in [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck)
+5. ❗ Opened issue [#16](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/issues/16) in [zzzz0317/beijing-unicom-iptv-playlist](https://github.com/zzzz0317/beijing-unicom-iptv-playlist)
+6. ❌ Closed PR [#17784](https://github.com/apache/iotdb/pull/17784) in [apache/iotdb](https://github.com/apache/iotdb)
+7. 🗣 Commented on [#3139](https://github.com/ccfos/nightingale/pull/3139#issuecomment-4538885835) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
+8. 🎉 Merged PR [#3139](https://github.com/ccfos/nightingale/pull/3139) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
+9. 🎉 Merged PR [#17760](https://github.com/apache/iotdb/pull/17760) in [apache/iotdb](https://github.com/apache/iotdb)
+10. 🎉 Merged PR [#17757](https://github.com/apache/iotdb/pull/17757) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

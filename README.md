@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4222** commits, opened **56** issues, submitted **1382** pull requests, received **1** stars across **18** personal projects and contributed to **25** public repositories.
+Since then I pushed **4222** commits, opened **56** issues, submitted **1384** pull requests, received **1** stars across **18** personal projects and contributed to **25** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17853](https://github.com/apache/iotdb/issues/17853#issuecomment-4631420681) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 💪 Opened PR [#17854](https://github.com/apache/iotdb/pull/17854) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 💪 Opened PR [#830](https://github.com/apache/tsfile/pull/830) in [apache/tsfile](https://github.com/apache/tsfile)
-4. 🗣 Commented on [#17846](https://github.com/apache/iotdb/issues/17846#issuecomment-4627352494) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🔒 Closed issue [#17846](https://github.com/apache/iotdb/issues/17846) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🗣 Commented on [#17823](https://github.com/apache/iotdb/pull/17823#issuecomment-4608438757) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🎉 Merged PR [#7723](https://github.com/github/advisory-database/pull/7723) in [github/advisory-database](https://github.com/github/advisory-database)
-8. ℹ️ Labeled issue [#8566](https://github.com/dependency-check/DependencyCheck/issues/8566) in [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck)
-9. ❗ Opened issue [#8566](https://github.com/dependency-check/DependencyCheck/issues/8566) in [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck)
-10. ❗ Opened issue [#16](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/issues/16) in [zzzz0317/beijing-unicom-iptv-playlist](https://github.com/zzzz0317/beijing-unicom-iptv-playlist)
 <!--END_SECTION:activity-->
 
 <!--

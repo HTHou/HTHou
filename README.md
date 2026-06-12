@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#17859](https://github.com/apache/iotdb/pull/17859) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 💪 Opened PR [#2](https://github.com/TimechoLab/moquette/pull/2) in [TimechoLab/moquette](https://github.com/TimechoLab/moquette)
+3. 💪 Opened PR [#1478](https://github.com/apache/ratis/pull/1478) in [apache/ratis](https://github.com/apache/ratis)
+4. 🗣 Commented on [#17859](https://github.com/apache/iotdb/pull/17859#issuecomment-4676846241) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🗣 Commented on [#810](https://github.com/apache/tsfile/pull/810#issuecomment-4659490111) in [apache/tsfile](https://github.com/apache/tsfile)
+6. 🗣 Commented on [#811](https://github.com/apache/tsfile/pull/811#issuecomment-4659460883) in [apache/tsfile](https://github.com/apache/tsfile)
+7. 🗣 Commented on [#809](https://github.com/apache/tsfile/pull/809#issuecomment-4659417692) in [apache/tsfile](https://github.com/apache/tsfile)
+8. 🗣 Commented on [#808](https://github.com/apache/tsfile/pull/808#issuecomment-4659414645) in [apache/tsfile](https://github.com/apache/tsfile)
+9. 🗣 Commented on [#811](https://github.com/apache/tsfile/pull/811#issuecomment-4659406186) in [apache/tsfile](https://github.com/apache/tsfile)
+10. 🗣 Commented on [#811](https://github.com/apache/tsfile/pull/811#issuecomment-4659402837) in [apache/tsfile](https://github.com/apache/tsfile)
 <!--END_SECTION:activity-->
 
 <!--

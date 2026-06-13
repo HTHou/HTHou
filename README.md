@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1478](https://github.com/apache/ratis/pull/1478) in [apache/ratis](https://github.com/apache/ratis)
-2. 🗣 Commented on [#1478](https://github.com/apache/ratis/pull/1478#issuecomment-4696286438) in [apache/ratis](https://github.com/apache/ratis)
-3. 💪 Opened PR [#946](https://github.com/moquette-io/moquette/pull/946) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
-4. ❌ Closed PR [#945](https://github.com/moquette-io/moquette/pull/945) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
-5. 🗣 Commented on [#945](https://github.com/moquette-io/moquette/pull/945#issuecomment-4689733092) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
-6. 💪 Opened PR [#945](https://github.com/moquette-io/moquette/pull/945) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
-7. 🎉 Merged PR [#57](https://github.com/apache/iotdb-client-csharp/pull/57) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-8. 🎉 Merged PR [#160](https://github.com/apache/iotdb-client-go/pull/160) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-9. 🎉 Merged PR [#17859](https://github.com/apache/iotdb/pull/17859) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 💪 Opened PR [#2](https://github.com/TimechoLab/moquette/pull/2) in [TimechoLab/moquette](https://github.com/TimechoLab/moquette)
 <!--END_SECTION:activity-->
 
 <!--

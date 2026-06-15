@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#69](https://github.com/apache/iotdb-bin-resources/pull/69) in [apache/iotdb-bin-resources](https://github.com/apache/iotdb-bin-resources)
+2. 💪 Opened PR [#69](https://github.com/apache/iotdb-bin-resources/pull/69) in [apache/iotdb-bin-resources](https://github.com/apache/iotdb-bin-resources)
+3. 💪 Opened PR [#68](https://github.com/apache/iotdb-bin-resources/pull/68) in [apache/iotdb-bin-resources](https://github.com/apache/iotdb-bin-resources)
+4. 🎉 Merged PR [#1478](https://github.com/apache/ratis/pull/1478) in [apache/ratis](https://github.com/apache/ratis)
+5. 🗣 Commented on [#1478](https://github.com/apache/ratis/pull/1478#issuecomment-4696286438) in [apache/ratis](https://github.com/apache/ratis)
+6. 💪 Opened PR [#946](https://github.com/moquette-io/moquette/pull/946) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
+7. ❌ Closed PR [#945](https://github.com/moquette-io/moquette/pull/945) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
+8. 🗣 Commented on [#945](https://github.com/moquette-io/moquette/pull/945#issuecomment-4689733092) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
+9. 💪 Opened PR [#945](https://github.com/moquette-io/moquette/pull/945) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
+10. 🎉 Merged PR [#57](https://github.com/apache/iotdb-client-csharp/pull/57) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
 <!--END_SECTION:activity-->
 
 <!--

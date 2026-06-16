@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#17855](https://github.com/apache/iotdb/pull/17855) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 💪 Opened PR [#17945](https://github.com/apache/iotdb/pull/17945) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🎉 Merged PR [#74](https://github.com/apache/iotdb-bin-resources/pull/74) in [apache/iotdb-bin-resources](https://github.com/apache/iotdb-bin-resources)
+4. 💪 Opened PR [#74](https://github.com/apache/iotdb-bin-resources/pull/74) in [apache/iotdb-bin-resources](https://github.com/apache/iotdb-bin-resources)
+5. 💪 Opened PR [#3598](https://github.com/apache/thrift/pull/3598) in [apache/thrift](https://github.com/apache/thrift)
+6. 🎉 Merged PR [#68](https://github.com/apache/iotdb-bin-resources/pull/68) in [apache/iotdb-bin-resources](https://github.com/apache/iotdb-bin-resources)
+7. 🎉 Merged PR [#69](https://github.com/apache/iotdb-bin-resources/pull/69) in [apache/iotdb-bin-resources](https://github.com/apache/iotdb-bin-resources)
+8. 💪 Opened PR [#69](https://github.com/apache/iotdb-bin-resources/pull/69) in [apache/iotdb-bin-resources](https://github.com/apache/iotdb-bin-resources)
+9. 💪 Opened PR [#68](https://github.com/apache/iotdb-bin-resources/pull/68) in [apache/iotdb-bin-resources](https://github.com/apache/iotdb-bin-resources)
+10. 🎉 Merged PR [#1478](https://github.com/apache/ratis/pull/1478) in [apache/ratis](https://github.com/apache/ratis)
 <!--END_SECTION:activity-->
 
 <!--

@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4240** commits, opened **56** issues, submitted **1396** pull requests, received **1** stars across **18** personal projects and contributed to **28** public repositories.
+Since then I pushed **4241** commits, opened **56** issues, submitted **1396** pull requests, received **1** stars across **18** personal projects and contributed to **28** public repositories.
 
 Most used languages across my projects:
 
@@ -32,14 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17854](https://github.com/apache/iotdb/pull/17854) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🎉 Merged PR [#3600](https://github.com/apache/thrift/pull/3600) in [apache/thrift](https://github.com/apache/thrift)
-3. 🗣 Commented on [#3600](https://github.com/apache/thrift/pull/3600#issuecomment-4731877125) in [apache/thrift](https://github.com/apache/thrift)
-4. 🎉 Merged PR [#3598](https://github.com/apache/thrift/pull/3598) in [apache/thrift](https://github.com/apache/thrift)
-5. 💪 Opened PR [#3600](https://github.com/apache/thrift/pull/3600) in [apache/thrift](https://github.com/apache/thrift)
-6. 🗣 Commented on [#17973](https://github.com/apache/iotdb/pull/17973#issuecomment-4727643042) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🗣 Commented on [#17923](https://github.com/apache/iotdb/issues/17923#issuecomment-4727257311) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🔒 Closed issue [#17923](https://github.com/apache/iotdb/issues/17923) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

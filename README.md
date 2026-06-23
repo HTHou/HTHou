@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4242** commits, opened **56** issues, submitted **1396** pull requests, received **1** stars across **18** personal projects and contributed to **28** public repositories.
+Since then I pushed **4243** commits, opened **56** issues, submitted **1397** pull requests, received **1** stars across **18** personal projects and contributed to **28** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18011](https://github.com/apache/iotdb/pull/18011) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🎉 Merged PR [#2](https://github.com/TimechoLab/moquette/pull/2) in [TimechoLab/moquette](https://github.com/TimechoLab/moquette)
-3. ❌ Closed PR [#16245](https://github.com/apache/iotdb/pull/16245) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🎉 Merged PR [#17854](https://github.com/apache/iotdb/pull/17854) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🎉 Merged PR [#3600](https://github.com/apache/thrift/pull/3600) in [apache/thrift](https://github.com/apache/thrift)
-6. 🗣 Commented on [#3600](https://github.com/apache/thrift/pull/3600#issuecomment-4731877125) in [apache/thrift](https://github.com/apache/thrift)
-7. 🎉 Merged PR [#3598](https://github.com/apache/thrift/pull/3598) in [apache/thrift](https://github.com/apache/thrift)
-8. 💪 Opened PR [#3600](https://github.com/apache/thrift/pull/3600) in [apache/thrift](https://github.com/apache/thrift)
-9. 🗣 Commented on [#17973](https://github.com/apache/iotdb/pull/17973#issuecomment-4727643042) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🗣 Commented on [#17923](https://github.com/apache/iotdb/issues/17923#issuecomment-4727257311) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

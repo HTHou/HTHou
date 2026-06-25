@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#546](https://github.com/thulab/iot-benchmark/pull/546) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
+2. 🎉 Merged PR [#18011](https://github.com/apache/iotdb/pull/18011) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🎉 Merged PR [#2](https://github.com/TimechoLab/moquette/pull/2) in [TimechoLab/moquette](https://github.com/TimechoLab/moquette)
+4. ❌ Closed PR [#16245](https://github.com/apache/iotdb/pull/16245) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🎉 Merged PR [#17854](https://github.com/apache/iotdb/pull/17854) in [apache/iotdb](https://github.com/apache/iotdb)
+6. 🎉 Merged PR [#3600](https://github.com/apache/thrift/pull/3600) in [apache/thrift](https://github.com/apache/thrift)
+7. 🗣 Commented on [#3600](https://github.com/apache/thrift/pull/3600#issuecomment-4731877125) in [apache/thrift](https://github.com/apache/thrift)
+8. 🎉 Merged PR [#3598](https://github.com/apache/thrift/pull/3598) in [apache/thrift](https://github.com/apache/thrift)
+9. 💪 Opened PR [#3600](https://github.com/apache/thrift/pull/3600) in [apache/thrift](https://github.com/apache/thrift)
+10. 🗣 Commented on [#17973](https://github.com/apache/iotdb/pull/17973#issuecomment-4727643042) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

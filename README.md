@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4246** commits, opened **56** issues, submitted **1403** pull requests, received **1** stars across **18** personal projects and contributed to **28** public repositories.
+Since then I pushed **4246** commits, opened **56** issues, submitted **1403** pull requests, received **1** stars across **18** personal projects and contributed to **27** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#165](https://github.com/apache/iotdb-client-go/pull/165) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-2. 🎉 Merged PR [#13](https://github.com/apache/iotdb-client-nodejs/pull/13) in [apache/iotdb-client-nodejs](https://github.com/apache/iotdb-client-nodejs)
-3. 🗣 Commented on [#10](https://github.com/apache/iotdb-client-nodejs/pull/10#issuecomment-4805975719) in [apache/iotdb-client-nodejs](https://github.com/apache/iotdb-client-nodejs)
-4. 🗣 Commented on [#11](https://github.com/apache/iotdb-client-nodejs/pull/11#issuecomment-4805974472) in [apache/iotdb-client-nodejs](https://github.com/apache/iotdb-client-nodejs)
-5. 💪 Opened PR [#18026](https://github.com/apache/iotdb/pull/18026) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 💪 Opened PR [#13](https://github.com/apache/iotdb-client-nodejs/pull/13) in [apache/iotdb-client-nodejs](https://github.com/apache/iotdb-client-nodejs)
-7. 💪 Opened PR [#60](https://github.com/apache/iotdb-client-csharp/pull/60) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-8. 💪 Opened PR [#18011](https://github.com/apache/iotdb/pull/18011) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🎉 Merged PR [#12](https://github.com/apache/iotdb-client-nodejs/pull/12) in [apache/iotdb-client-nodejs](https://github.com/apache/iotdb-client-nodejs)
-10. 💪 Opened PR [#12](https://github.com/apache/iotdb-client-nodejs/pull/12) in [apache/iotdb-client-nodejs](https://github.com/apache/iotdb-client-nodejs)
 <!--END_SECTION:activity-->
 
 <!--

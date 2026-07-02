@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#166](https://github.com/apache/iotdb-client-go/pull/166) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+2. 💪 Opened PR [#166](https://github.com/apache/iotdb-client-go/pull/166) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+3. 🗣 Commented on [#850](https://github.com/apache/tsfile/pull/850#issuecomment-4851487143) in [apache/tsfile](https://github.com/apache/tsfile)
+4. 🗣 Commented on [#850](https://github.com/apache/tsfile/pull/850#issuecomment-4851484408) in [apache/tsfile](https://github.com/apache/tsfile)
+5. 🎉 Merged PR [#548](https://github.com/thulab/iot-benchmark/pull/548) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
+6. 💪 Opened PR [#548](https://github.com/thulab/iot-benchmark/pull/548) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
+7. 🎉 Merged PR [#18026](https://github.com/apache/iotdb/pull/18026) in [apache/iotdb](https://github.com/apache/iotdb)
+8. 💪 Opened PR [#1499](https://github.com/apache/ratis/pull/1499) in [apache/ratis](https://github.com/apache/ratis)
+9. 🎉 Merged PR [#2078](https://github.com/n9e/fe/pull/2078) in [n9e/fe](https://github.com/n9e/fe)
+10. 🗣 Commented on [#3606](https://github.com/apache/thrift/pull/3606#issuecomment-4818079298) in [apache/thrift](https://github.com/apache/thrift)
 <!--END_SECTION:activity-->
 
 <!--

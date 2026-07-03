@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#510](https://github.com/thulab/iot-benchmark/pull/510#issuecomment-4871932633) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
+2. 🎉 Merged PR [#18093](https://github.com/apache/iotdb/pull/18093) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 💪 Opened PR [#18093](https://github.com/apache/iotdb/pull/18093) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🎉 Merged PR [#166](https://github.com/apache/iotdb-client-go/pull/166) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+5. 💪 Opened PR [#166](https://github.com/apache/iotdb-client-go/pull/166) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
+6. 🗣 Commented on [#850](https://github.com/apache/tsfile/pull/850#issuecomment-4851487143) in [apache/tsfile](https://github.com/apache/tsfile)
+7. 🗣 Commented on [#850](https://github.com/apache/tsfile/pull/850#issuecomment-4851484408) in [apache/tsfile](https://github.com/apache/tsfile)
+8. 🎉 Merged PR [#548](https://github.com/thulab/iot-benchmark/pull/548) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
+9. 💪 Opened PR [#548](https://github.com/thulab/iot-benchmark/pull/548) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
+10. 🎉 Merged PR [#18026](https://github.com/apache/iotdb/pull/18026) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Apache IoTDB 2.0.10](https://github.com/apache/iotdb/releases/tag/v2.0.10) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🎉 Merged PR [#1499](https://github.com/apache/ratis/pull/1499) in [apache/ratis](https://github.com/apache/ratis)
-3. 🗣 Commented on [#510](https://github.com/thulab/iot-benchmark/pull/510#issuecomment-4871932633) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
-4. 🎉 Merged PR [#18093](https://github.com/apache/iotdb/pull/18093) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 💪 Opened PR [#18093](https://github.com/apache/iotdb/pull/18093) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🎉 Merged PR [#166](https://github.com/apache/iotdb-client-go/pull/166) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-7. 💪 Opened PR [#166](https://github.com/apache/iotdb-client-go/pull/166) in [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go)
-8. 🗣 Commented on [#850](https://github.com/apache/tsfile/pull/850#issuecomment-4851487143) in [apache/tsfile](https://github.com/apache/tsfile)
-9. 🗣 Commented on [#850](https://github.com/apache/tsfile/pull/850#issuecomment-4851484408) in [apache/tsfile](https://github.com/apache/tsfile)
-10. 🎉 Merged PR [#548](https://github.com/thulab/iot-benchmark/pull/548) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
 <!--END_SECTION:activity-->
 
 <!--

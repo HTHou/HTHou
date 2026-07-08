@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#18130](https://github.com/apache/iotdb/pull/18130#issuecomment-4900918774) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🗣 Commented on [#18130](https://github.com/apache/iotdb/pull/18130#issuecomment-4900823518) in [apache/iotdb](https://github.com/apache/iotdb)
+3. ❗ Opened issue [#1908](https://github.com/guanzhi/GmSSL/issues/1908) in [guanzhi/GmSSL](https://github.com/guanzhi/GmSSL)
+4. 🎉 Merged PR [#142](https://github.com/apache/ratis-thirdparty/pull/142) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
+5. 💪 Opened PR [#142](https://github.com/apache/ratis-thirdparty/pull/142) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
+6. 🗣 Commented on [#3621](https://github.com/apache/thrift/pull/3621#issuecomment-4888434670) in [apache/thrift](https://github.com/apache/thrift)
+7. 🚀 Published release [Apache IoTDB 2.0.10](https://github.com/apache/iotdb/releases/tag/v2.0.10) in [apache/iotdb](https://github.com/apache/iotdb)
+8. 🎉 Merged PR [#1499](https://github.com/apache/ratis/pull/1499) in [apache/ratis](https://github.com/apache/ratis)
+9. 🗣 Commented on [#510](https://github.com/thulab/iot-benchmark/pull/510#issuecomment-4871932633) in [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark)
+10. 🎉 Merged PR [#18093](https://github.com/apache/iotdb/pull/18093) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

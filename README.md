@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4259** commits, opened **57** issues, submitted **1409** pull requests, received **1** stars across **18** personal projects and contributed to **29** public repositories.
+Since then I pushed **4260** commits, opened **57** issues, submitted **1409** pull requests, received **1** stars across **18** personal projects and contributed to **29** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1182](https://github.com/apache/iotdb-docs/pull/1182) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-2. 🗣 Commented on [#54](https://github.com/yawkat/lz4-java/issues/54#issuecomment-4912209323) in [yawkat/lz4-java](https://github.com/yawkat/lz4-java)
-3. 🗣 Commented on [#18130](https://github.com/apache/iotdb/pull/18130#issuecomment-4900918774) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🗣 Commented on [#18130](https://github.com/apache/iotdb/pull/18130#issuecomment-4900823518) in [apache/iotdb](https://github.com/apache/iotdb)
-5. ❗ Opened issue [#1908](https://github.com/guanzhi/GmSSL/issues/1908) in [guanzhi/GmSSL](https://github.com/guanzhi/GmSSL)
-6. 🎉 Merged PR [#142](https://github.com/apache/ratis-thirdparty/pull/142) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
-7. 💪 Opened PR [#142](https://github.com/apache/ratis-thirdparty/pull/142) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
-8. 🗣 Commented on [#3621](https://github.com/apache/thrift/pull/3621#issuecomment-4888434670) in [apache/thrift](https://github.com/apache/thrift)
-9. 🚀 Published release [Apache IoTDB 2.0.10](https://github.com/apache/iotdb/releases/tag/v2.0.10) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🎉 Merged PR [#1499](https://github.com/apache/ratis/pull/1499) in [apache/ratis](https://github.com/apache/ratis)
 <!--END_SECTION:activity-->
 
 <!--

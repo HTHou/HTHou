@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18164](https://github.com/apache/iotdb/pull/18164) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 💪 Opened PR [#18164](https://github.com/apache/iotdb/pull/18164) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 💪 Opened PR [#18162](https://github.com/apache/iotdb/pull/18162) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🎉 Merged PR [#1182](https://github.com/apache/iotdb-docs/pull/1182) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-5. 💪 Opened PR [#1182](https://github.com/apache/iotdb-docs/pull/1182) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-6. 🗣 Commented on [#54](https://github.com/yawkat/lz4-java/issues/54#issuecomment-4912209323) in [yawkat/lz4-java](https://github.com/yawkat/lz4-java)
-7. 🗣 Commented on [#18130](https://github.com/apache/iotdb/pull/18130#issuecomment-4900918774) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🗣 Commented on [#18130](https://github.com/apache/iotdb/pull/18130#issuecomment-4900823518) in [apache/iotdb](https://github.com/apache/iotdb)
-9. ❗ Opened issue [#1908](https://github.com/guanzhi/GmSSL/issues/1908) in [guanzhi/GmSSL](https://github.com/guanzhi/GmSSL)
-10. 🎉 Merged PR [#142](https://github.com/apache/ratis-thirdparty/pull/142) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
+1. 🔒 Closed issue [#14](https://github.com/apache/iotdb-client-nodejs/issues/14) in [apache/iotdb-client-nodejs](https://github.com/apache/iotdb-client-nodejs)
+2. 🎉 Merged PR [#18164](https://github.com/apache/iotdb/pull/18164) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 💪 Opened PR [#18164](https://github.com/apache/iotdb/pull/18164) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 💪 Opened PR [#18162](https://github.com/apache/iotdb/pull/18162) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🎉 Merged PR [#1182](https://github.com/apache/iotdb-docs/pull/1182) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
+6. 💪 Opened PR [#1182](https://github.com/apache/iotdb-docs/pull/1182) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
+7. 🗣 Commented on [#54](https://github.com/yawkat/lz4-java/issues/54#issuecomment-4912209323) in [yawkat/lz4-java](https://github.com/yawkat/lz4-java)
+8. 🗣 Commented on [#18130](https://github.com/apache/iotdb/pull/18130#issuecomment-4900918774) in [apache/iotdb](https://github.com/apache/iotdb)
+9. 🗣 Commented on [#18130](https://github.com/apache/iotdb/pull/18130#issuecomment-4900823518) in [apache/iotdb](https://github.com/apache/iotdb)
+10. ❗ Opened issue [#1908](https://github.com/guanzhi/GmSSL/issues/1908) in [guanzhi/GmSSL](https://github.com/guanzhi/GmSSL)
 <!--END_SECTION:activity-->
 
 <!--

@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1517](https://github.com/apache/ratis/pull/1517) in [apache/ratis](https://github.com/apache/ratis)
-2. ❌ Closed PR [#18185](https://github.com/apache/iotdb/pull/18185) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 💪 Opened PR [#1517](https://github.com/apache/ratis/pull/1517) in [apache/ratis](https://github.com/apache/ratis)
-4. 🔒 Closed issue [#14](https://github.com/apache/iotdb-client-nodejs/issues/14) in [apache/iotdb-client-nodejs](https://github.com/apache/iotdb-client-nodejs)
-5. 🎉 Merged PR [#18164](https://github.com/apache/iotdb/pull/18164) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 💪 Opened PR [#18164](https://github.com/apache/iotdb/pull/18164) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 💪 Opened PR [#18162](https://github.com/apache/iotdb/pull/18162) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🎉 Merged PR [#1182](https://github.com/apache/iotdb-docs/pull/1182) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-9. 💪 Opened PR [#1182](https://github.com/apache/iotdb-docs/pull/1182) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-10. 🗣 Commented on [#54](https://github.com/yawkat/lz4-java/issues/54#issuecomment-4912209323) in [yawkat/lz4-java](https://github.com/yawkat/lz4-java)
+1. 🗣 Commented on [#18203](https://github.com/apache/iotdb/issues/18203#issuecomment-4978826420) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🗣 Commented on [#18203](https://github.com/apache/iotdb/issues/18203#issuecomment-4978808686) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🎉 Merged PR [#1517](https://github.com/apache/ratis/pull/1517) in [apache/ratis](https://github.com/apache/ratis)
+4. ❌ Closed PR [#18185](https://github.com/apache/iotdb/pull/18185) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 💪 Opened PR [#1517](https://github.com/apache/ratis/pull/1517) in [apache/ratis](https://github.com/apache/ratis)
+6. 🔒 Closed issue [#14](https://github.com/apache/iotdb-client-nodejs/issues/14) in [apache/iotdb-client-nodejs](https://github.com/apache/iotdb-client-nodejs)
+7. 🎉 Merged PR [#18164](https://github.com/apache/iotdb/pull/18164) in [apache/iotdb](https://github.com/apache/iotdb)
+8. 💪 Opened PR [#18164](https://github.com/apache/iotdb/pull/18164) in [apache/iotdb](https://github.com/apache/iotdb)
+9. 💪 Opened PR [#18162](https://github.com/apache/iotdb/pull/18162) in [apache/iotdb](https://github.com/apache/iotdb)
+10. 🎉 Merged PR [#1182](https://github.com/apache/iotdb-docs/pull/1182) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
 <!--END_SECTION:activity-->
 
 <!--

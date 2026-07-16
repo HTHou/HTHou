@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4263** commits, opened **57** issues, submitted **1413** pull requests, received **1** stars across **18** personal projects and contributed to **29** public repositories.
+Since then I pushed **4264** commits, opened **57** issues, submitted **1414** pull requests, received **1** stars across **18** personal projects and contributed to **29** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3637](https://github.com/apache/thrift/pull/3637) in [apache/thrift](https://github.com/apache/thrift)
-2. 💪 Opened PR [#3637](https://github.com/apache/thrift/pull/3637) in [apache/thrift](https://github.com/apache/thrift)
-3. 🎉 Merged PR [#18162](https://github.com/apache/iotdb/pull/18162) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 💪 Opened PR [#866](https://github.com/apache/tsfile/pull/866) in [apache/tsfile](https://github.com/apache/tsfile)
-5. 🗣 Commented on [#18203](https://github.com/apache/iotdb/issues/18203#issuecomment-4978826420) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🗣 Commented on [#18203](https://github.com/apache/iotdb/issues/18203#issuecomment-4978808686) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🎉 Merged PR [#1517](https://github.com/apache/ratis/pull/1517) in [apache/ratis](https://github.com/apache/ratis)
-8. ❌ Closed PR [#18185](https://github.com/apache/iotdb/pull/18185) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 💪 Opened PR [#1517](https://github.com/apache/ratis/pull/1517) in [apache/ratis](https://github.com/apache/ratis)
-10. 🔒 Closed issue [#14](https://github.com/apache/iotdb-client-nodejs/issues/14) in [apache/iotdb-client-nodejs](https://github.com/apache/iotdb-client-nodejs)
 <!--END_SECTION:activity-->
 
 <!--

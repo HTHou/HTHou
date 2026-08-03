@@ -6,14 +6,14 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4276** commits, opened **57** issues, submitted **1424** pull requests, received **1** stars across **19** personal projects and contributed to **29** public repositories.
+Since then I pushed **4276** commits, opened **58** issues, submitted **1424** pull requests, received **1** stars across **19** personal projects and contributed to **30** public repositories.
 
 Most used languages across my projects:
 
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B176.3%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B176.2%25)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B15.3%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B14.7%25)
-![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B12.3%25)
+![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B12.5%25)
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B11.7%25)
 ![Less](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%231d365d&message=Less%EF%B8%B11.6%25)
 ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B10.9%25)
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#56](https://github.com/Tencent/TencentKona-17/issues/56) in [Tencent/TencentKona-17](https://github.com/Tencent/TencentKona-17)
-2. 🗣 Commented on [#946](https://github.com/moquette-io/moquette/pull/946#issuecomment-5161973990) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
-3. 🔒 Closed issue [#61](https://github.com/apache/iotdb-client-csharp/issues/61) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-4. 🗣 Commented on [#946](https://github.com/moquette-io/moquette/pull/946#issuecomment-5138910014) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
-5. 🗣 Commented on [#867](https://github.com/moquette-io/moquette/issues/867#issuecomment-5126442884) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
-6. 🎉 Merged PR [#18351](https://github.com/apache/iotdb/pull/18351) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 💪 Opened PR [#18351](https://github.com/apache/iotdb/pull/18351) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🎉 Merged PR [#18345](https://github.com/apache/iotdb/pull/18345) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 💪 Opened PR [#18345](https://github.com/apache/iotdb/pull/18345) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 💪 Opened PR [#18320](https://github.com/apache/iotdb/pull/18320) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

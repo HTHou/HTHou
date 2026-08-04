@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#56](https://github.com/Tencent/TencentKona-17/issues/56) in [Tencent/TencentKona-17](https://github.com/Tencent/TencentKona-17)
-2. 🗣 Commented on [#946](https://github.com/moquette-io/moquette/pull/946#issuecomment-5161973990) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
-3. 🔒 Closed issue [#61](https://github.com/apache/iotdb-client-csharp/issues/61) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
-4. 🗣 Commented on [#946](https://github.com/moquette-io/moquette/pull/946#issuecomment-5138910014) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
-5. 🗣 Commented on [#867](https://github.com/moquette-io/moquette/issues/867#issuecomment-5126442884) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
-6. 🎉 Merged PR [#18351](https://github.com/apache/iotdb/pull/18351) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 💪 Opened PR [#18351](https://github.com/apache/iotdb/pull/18351) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🎉 Merged PR [#18345](https://github.com/apache/iotdb/pull/18345) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 💪 Opened PR [#18345](https://github.com/apache/iotdb/pull/18345) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 💪 Opened PR [#18320](https://github.com/apache/iotdb/pull/18320) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

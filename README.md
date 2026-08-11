@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#18446](https://github.com/apache/iotdb/pull/18446) in [apache/iotdb](https://github.com/apache/iotdb)
+2. ❗ Opened issue [#1304](https://github.com/Tencent/TencentKonaSMSuite/issues/1304) in [Tencent/TencentKonaSMSuite](https://github.com/Tencent/TencentKonaSMSuite)
+3. ❗ Opened issue [#1](https://github.com/apache/iotdb-client-rust/issues/1) in [apache/iotdb-client-rust](https://github.com/apache/iotdb-client-rust)
+4. ❗ Opened issue [#1303](https://github.com/Tencent/TencentKonaSMSuite/issues/1303) in [Tencent/TencentKonaSMSuite](https://github.com/Tencent/TencentKonaSMSuite)
+5. 🗣 Commented on [#56](https://github.com/Tencent/TencentKona-17/issues/56#issuecomment-5175403457) in [Tencent/TencentKona-17](https://github.com/Tencent/TencentKona-17)
+6. ❗ Opened issue [#22](https://github.com/Tencent/TencentKona-21/issues/22) in [Tencent/TencentKona-21](https://github.com/Tencent/TencentKona-21)
+7. ❗ Opened issue [#56](https://github.com/Tencent/TencentKona-17/issues/56) in [Tencent/TencentKona-17](https://github.com/Tencent/TencentKona-17)
+8. 🗣 Commented on [#946](https://github.com/moquette-io/moquette/pull/946#issuecomment-5161973990) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
+9. 🔒 Closed issue [#61](https://github.com/apache/iotdb-client-csharp/issues/61) in [apache/iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp)
+10. 🗣 Commented on [#946](https://github.com/moquette-io/moquette/pull/946#issuecomment-5138910014) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
 <!--END_SECTION:activity-->
 
 <!--

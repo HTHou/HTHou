@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4276** commits, opened **62** issues, submitted **1425** pull requests, received **1** stars across **19** personal projects and contributed to **33** public repositories.
+Since then I pushed **4278** commits, opened **62** issues, submitted **1426** pull requests, received **1** stars across **19** personal projects and contributed to **33** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/apache/iotdb-client-rust/pull/2) in [apache/iotdb-client-rust](https://github.com/apache/iotdb-client-rust)
-2. 🎉 Merged PR [#18446](https://github.com/apache/iotdb/pull/18446) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🗣 Commented on [#22](https://github.com/Tencent/TencentKona-21/issues/22#issuecomment-5261038291) in [Tencent/TencentKona-21](https://github.com/Tencent/TencentKona-21)
-4. 💪 Opened PR [#18446](https://github.com/apache/iotdb/pull/18446) in [apache/iotdb](https://github.com/apache/iotdb)
-5. ❗ Opened issue [#1304](https://github.com/Tencent/TencentKonaSMSuite/issues/1304) in [Tencent/TencentKonaSMSuite](https://github.com/Tencent/TencentKonaSMSuite)
-6. ❗ Opened issue [#1](https://github.com/apache/iotdb-client-rust/issues/1) in [apache/iotdb-client-rust](https://github.com/apache/iotdb-client-rust)
-7. ❗ Opened issue [#1303](https://github.com/Tencent/TencentKonaSMSuite/issues/1303) in [Tencent/TencentKonaSMSuite](https://github.com/Tencent/TencentKonaSMSuite)
-8. 🗣 Commented on [#56](https://github.com/Tencent/TencentKona-17/issues/56#issuecomment-5175403457) in [Tencent/TencentKona-17](https://github.com/Tencent/TencentKona-17)
-9. ❗ Opened issue [#22](https://github.com/Tencent/TencentKona-21/issues/22) in [Tencent/TencentKona-21](https://github.com/Tencent/TencentKona-21)
-10. ❗ Opened issue [#56](https://github.com/Tencent/TencentKona-17/issues/56) in [Tencent/TencentKona-17](https://github.com/Tencent/TencentKona-17)
 <!--END_SECTION:activity-->
 
 <!--

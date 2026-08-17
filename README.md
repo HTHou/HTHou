@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#946](https://github.com/moquette-io/moquette/pull/946#issuecomment-5315173901) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
+2. 💪 Opened PR [#18461](https://github.com/apache/iotdb/pull/18461) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🎉 Merged PR [#18320](https://github.com/apache/iotdb/pull/18320) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 💪 Opened PR [#2](https://github.com/apache/iotdb-client-rust/pull/2) in [apache/iotdb-client-rust](https://github.com/apache/iotdb-client-rust)
+5. 🎉 Merged PR [#18446](https://github.com/apache/iotdb/pull/18446) in [apache/iotdb](https://github.com/apache/iotdb)
+6. 🗣 Commented on [#22](https://github.com/Tencent/TencentKona-21/issues/22#issuecomment-5261038291) in [Tencent/TencentKona-21](https://github.com/Tencent/TencentKona-21)
+7. 💪 Opened PR [#18446](https://github.com/apache/iotdb/pull/18446) in [apache/iotdb](https://github.com/apache/iotdb)
+8. ❗ Opened issue [#1304](https://github.com/Tencent/TencentKonaSMSuite/issues/1304) in [Tencent/TencentKonaSMSuite](https://github.com/Tencent/TencentKonaSMSuite)
+9. ❗ Opened issue [#1](https://github.com/apache/iotdb-client-rust/issues/1) in [apache/iotdb-client-rust](https://github.com/apache/iotdb-client-rust)
+10. ❗ Opened issue [#1303](https://github.com/Tencent/TencentKonaSMSuite/issues/1303) in [Tencent/TencentKonaSMSuite](https://github.com/Tencent/TencentKonaSMSuite)
 <!--END_SECTION:activity-->
 
 <!--

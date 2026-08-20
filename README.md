@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4280** commits, opened **64** issues, submitted **1427** pull requests, received **1** stars across **19** personal projects and contributed to **34** public repositories.
+Since then I pushed **4280** commits, opened **64** issues, submitted **1428** pull requests, received **1** stars across **19** personal projects and contributed to **34** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18499](https://github.com/apache/iotdb/pull/18499) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🎉 Merged PR [#946](https://github.com/moquette-io/moquette/pull/946) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
-3. 🗣 Commented on [#3341](https://github.com/ccfos/nightingale/issues/3341#issuecomment-5326056598) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
-4. ❗ Opened issue [#3341](https://github.com/ccfos/nightingale/issues/3341) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
-5. ❗ Opened issue [#13](https://github.com/n9e/n9e.github.io/issues/13) in [n9e/n9e.github.io](https://github.com/n9e/n9e.github.io)
-6. 🗣 Commented on [#946](https://github.com/moquette-io/moquette/pull/946#issuecomment-5322421808) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
-7. 🗣 Commented on [#946](https://github.com/moquette-io/moquette/pull/946#issuecomment-5315173901) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
-8. 💪 Opened PR [#18461](https://github.com/apache/iotdb/pull/18461) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🎉 Merged PR [#18320](https://github.com/apache/iotdb/pull/18320) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 💪 Opened PR [#2](https://github.com/apache/iotdb-client-rust/pull/2) in [apache/iotdb-client-rust](https://github.com/apache/iotdb-client-rust)
 <!--END_SECTION:activity-->
 
 <!--

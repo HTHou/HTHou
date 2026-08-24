@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18461](https://github.com/apache/iotdb/pull/18461) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🎉 Merged PR [#18504](https://github.com/apache/iotdb/pull/18504) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 💪 Opened PR [#18504](https://github.com/apache/iotdb/pull/18504) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🗣 Commented on [#18500](https://github.com/apache/iotdb/issues/18500#issuecomment-5367484265) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🔒 Closed issue [#18500](https://github.com/apache/iotdb/issues/18500) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 💪 Opened PR [#18499](https://github.com/apache/iotdb/pull/18499) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🎉 Merged PR [#946](https://github.com/moquette-io/moquette/pull/946) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
-8. 🗣 Commented on [#3341](https://github.com/ccfos/nightingale/issues/3341#issuecomment-5326056598) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
-9. ❗ Opened issue [#3341](https://github.com/ccfos/nightingale/issues/3341) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
-10. ❗ Opened issue [#13](https://github.com/n9e/n9e.github.io/issues/13) in [n9e/n9e.github.io](https://github.com/n9e/n9e.github.io)
+1. ❌ Closed PR [#16831](https://github.com/apache/iotdb/pull/16831) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🎉 Merged PR [#18499](https://github.com/apache/iotdb/pull/18499) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🎉 Merged PR [#18461](https://github.com/apache/iotdb/pull/18461) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🎉 Merged PR [#18504](https://github.com/apache/iotdb/pull/18504) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 💪 Opened PR [#18504](https://github.com/apache/iotdb/pull/18504) in [apache/iotdb](https://github.com/apache/iotdb)
+6. 🗣 Commented on [#18500](https://github.com/apache/iotdb/issues/18500#issuecomment-5367484265) in [apache/iotdb](https://github.com/apache/iotdb)
+7. 🔒 Closed issue [#18500](https://github.com/apache/iotdb/issues/18500) in [apache/iotdb](https://github.com/apache/iotdb)
+8. 💪 Opened PR [#18499](https://github.com/apache/iotdb/pull/18499) in [apache/iotdb](https://github.com/apache/iotdb)
+9. 🎉 Merged PR [#946](https://github.com/moquette-io/moquette/pull/946) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
+10. 🗣 Commented on [#3341](https://github.com/ccfos/nightingale/issues/3341#issuecomment-5326056598) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
 <!--END_SECTION:activity-->
 
 <!--

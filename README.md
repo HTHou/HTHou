@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#18504](https://github.com/apache/iotdb/pull/18504) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 💪 Opened PR [#18504](https://github.com/apache/iotdb/pull/18504) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🗣 Commented on [#18500](https://github.com/apache/iotdb/issues/18500#issuecomment-5367484265) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🔒 Closed issue [#18500](https://github.com/apache/iotdb/issues/18500) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 💪 Opened PR [#18499](https://github.com/apache/iotdb/pull/18499) in [apache/iotdb](https://github.com/apache/iotdb)
+6. 🎉 Merged PR [#946](https://github.com/moquette-io/moquette/pull/946) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
+7. 🗣 Commented on [#3341](https://github.com/ccfos/nightingale/issues/3341#issuecomment-5326056598) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
+8. ❗ Opened issue [#3341](https://github.com/ccfos/nightingale/issues/3341) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
+9. ❗ Opened issue [#13](https://github.com/n9e/n9e.github.io/issues/13) in [n9e/n9e.github.io](https://github.com/n9e/n9e.github.io)
+10. 🗣 Commented on [#946](https://github.com/moquette-io/moquette/pull/946#issuecomment-5322421808) in [moquette-io/moquette](https://github.com/moquette-io/moquette)
 <!--END_SECTION:activity-->
 
 <!--

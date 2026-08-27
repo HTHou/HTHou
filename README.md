@@ -14,7 +14,7 @@ Most used languages across my projects:
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B15.3%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B14.7%25)
 ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B12.5%25)
-![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B11.7%25)
+![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%237355dd&message=C%23%EF%B8%B11.7%25)
 ![Less](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%231d365d&message=Less%EF%B8%B11.6%25)
 ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B10.9%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B16.8%25)
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#924](https://github.com/apache/tsfile/issues/924#issuecomment-5433688690) in [apache/tsfile](https://github.com/apache/tsfile)
-2. ❌ Closed PR [#15113](https://github.com/apache/iotdb/pull/15113) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🎉 Merged PR [#18299](https://github.com/apache/iotdb/pull/18299) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🎉 Merged PR [#18513](https://github.com/apache/iotdb/pull/18513) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 💪 Opened PR [#18513](https://github.com/apache/iotdb/pull/18513) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 💪 Opened PR [#1561](https://github.com/apache/ratis/pull/1561) in [apache/ratis](https://github.com/apache/ratis)
-7. ❌ Closed PR [#16831](https://github.com/apache/iotdb/pull/16831) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🎉 Merged PR [#18499](https://github.com/apache/iotdb/pull/18499) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🎉 Merged PR [#18461](https://github.com/apache/iotdb/pull/18461) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🎉 Merged PR [#18504](https://github.com/apache/iotdb/pull/18504) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

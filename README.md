@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#17567](https://github.com/apache/iotdb/pull/17567) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🎉 Merged PR [#1561](https://github.com/apache/ratis/pull/1561) in [apache/ratis](https://github.com/apache/ratis)
-3. 🎉 Merged PR [#925](https://github.com/apache/tsfile/pull/925) in [apache/tsfile](https://github.com/apache/tsfile)
-4. 💪 Opened PR [#925](https://github.com/apache/tsfile/pull/925) in [apache/tsfile](https://github.com/apache/tsfile)
-5. 🗣 Commented on [#18537](https://github.com/apache/iotdb/issues/18537#issuecomment-5447618373) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🗣 Commented on [#3341](https://github.com/ccfos/nightingale/issues/3341#issuecomment-5437779425) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
-7. 🗣 Commented on [#924](https://github.com/apache/tsfile/issues/924#issuecomment-5433688690) in [apache/tsfile](https://github.com/apache/tsfile)
-8. ❌ Closed PR [#15113](https://github.com/apache/iotdb/pull/15113) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🎉 Merged PR [#18299](https://github.com/apache/iotdb/pull/18299) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🎉 Merged PR [#18513](https://github.com/apache/iotdb/pull/18513) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

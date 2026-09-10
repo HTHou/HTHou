@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4288** commits, opened **64** issues, submitted **1439** pull requests, received **1** stars across **19** personal projects and contributed to **35** public repositories.
+Since then I pushed **4289** commits, opened **64** issues, submitted **1439** pull requests, received **1** stars across **19** personal projects and contributed to **35** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18612](https://github.com/apache/iotdb/pull/18612) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🗣 Commented on [#18611](https://github.com/apache/iotdb/pull/18611#issuecomment-5598140810) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🗣 Commented on [#3820](https://github.com/apache/thrift/pull/3820#issuecomment-5597872521) in [apache/thrift](https://github.com/apache/thrift)
-4. 🗣 Commented on [#3820](https://github.com/apache/thrift/pull/3820#issuecomment-5597822113) in [apache/thrift](https://github.com/apache/thrift)
-5. 🗣 Commented on [#3374](https://github.com/ccfos/nightingale/issues/3374#issuecomment-5596958615) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
-6. 💪 Opened PR [#18605](https://github.com/apache/iotdb/pull/18605) in [apache/iotdb](https://github.com/apache/iotdb)
-7. 🗣 Commented on [#18601](https://github.com/apache/iotdb/pull/18601#issuecomment-5583187001) in [apache/iotdb](https://github.com/apache/iotdb)
-8. 🗣 Commented on [#18597](https://github.com/apache/iotdb/pull/18597#issuecomment-5580310015) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🗣 Commented on [#1577](https://github.com/apache/ratis/pull/1577#issuecomment-5577808146) in [apache/ratis](https://github.com/apache/ratis)
-10. 🗣 Commented on [#3374](https://github.com/ccfos/nightingale/issues/3374#issuecomment-5536707065) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
 <!--END_SECTION:activity-->
 
 <!--

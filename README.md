@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🚀 Published release [didi v1.0.0](https://github.com/HTHou/didi-codex-pet/releases/tag/v1.0.0) in [HTHou/didi-codex-pet](https://github.com/HTHou/didi-codex-pet)
+2. 🎉 Merged PR [#18719](https://github.com/apache/iotdb/pull/18719) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🗣 Commented on [#18719](https://github.com/apache/iotdb/pull/18719#issuecomment-5866844035) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🎉 Merged PR [#18732](https://github.com/apache/iotdb/pull/18732) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 💪 Opened PR [#18732](https://github.com/apache/iotdb/pull/18732) in [apache/iotdb](https://github.com/apache/iotdb)
+6. 💪 Opened PR [#18719](https://github.com/apache/iotdb/pull/18719) in [apache/iotdb](https://github.com/apache/iotdb)
+7. 💪 Opened PR [#18708](https://github.com/apache/iotdb/pull/18708) in [apache/iotdb](https://github.com/apache/iotdb)
+8. 🗣 Commented on [#3374](https://github.com/ccfos/nightingale/issues/3374#issuecomment-5791949523) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
+9. 🗣 Commented on [#18481](https://github.com/apache/iotdb/pull/18481#issuecomment-5772140108) in [apache/iotdb](https://github.com/apache/iotdb)
+10. 🎉 Merged PR [#18605](https://github.com/apache/iotdb/pull/18605) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

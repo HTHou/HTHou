@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4312** commits, opened **64** issues, submitted **1457** pull requests, received **1** stars across **19** personal projects and contributed to **35** public repositories.
+Since then I pushed **4313** commits, opened **64** issues, submitted **1458** pull requests, received **1** stars across **19** personal projects and contributed to **35** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18631](https://github.com/apache/iotdb/pull/18631) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 💪 Opened PR [#18793](https://github.com/apache/iotdb/pull/18793) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🎉 Merged PR [#13](https://github.com/apache/iotdb-client-rust/pull/13) in [apache/iotdb-client-rust](https://github.com/apache/iotdb-client-rust)
-4. 🎉 Merged PR [#1626](https://github.com/apache/ratis/pull/1626) in [apache/ratis](https://github.com/apache/ratis)
-5. 🎉 Merged PR [#206](https://github.com/apache/ratis-thirdparty/pull/206) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
-6. 💪 Opened PR [#206](https://github.com/apache/ratis-thirdparty/pull/206) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
-7. 💪 Opened PR [#1626](https://github.com/apache/ratis/pull/1626) in [apache/ratis](https://github.com/apache/ratis)
-8. 🗣 Commented on [#18792](https://github.com/apache/iotdb/issues/18792#issuecomment-5978266175) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 💪 Opened PR [#13](https://github.com/apache/iotdb-client-rust/pull/13) in [apache/iotdb-client-rust](https://github.com/apache/iotdb-client-rust)
-10. 🎉 Merged PR [#77](https://github.com/apache/iotdb-bin-resources/pull/77) in [apache/iotdb-bin-resources](https://github.com/apache/iotdb-bin-resources)
 <!--END_SECTION:activity-->
 
 <!--

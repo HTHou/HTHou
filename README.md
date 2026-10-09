@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/apache/iotdb-extras/pull/133#issuecomment-6074155808) in [apache/iotdb-extras](https://github.com/apache/iotdb-extras)
-2. 🔒 Closed issue [#18787](https://github.com/apache/iotdb/issues/18787) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🎉 Merged PR [#18631](https://github.com/apache/iotdb/pull/18631) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 💪 Opened PR [#18793](https://github.com/apache/iotdb/pull/18793) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🎉 Merged PR [#13](https://github.com/apache/iotdb-client-rust/pull/13) in [apache/iotdb-client-rust](https://github.com/apache/iotdb-client-rust)
-6. 🎉 Merged PR [#1626](https://github.com/apache/ratis/pull/1626) in [apache/ratis](https://github.com/apache/ratis)
-7. 🎉 Merged PR [#206](https://github.com/apache/ratis-thirdparty/pull/206) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
-8. 💪 Opened PR [#206](https://github.com/apache/ratis-thirdparty/pull/206) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
-9. 💪 Opened PR [#1626](https://github.com/apache/ratis/pull/1626) in [apache/ratis](https://github.com/apache/ratis)
-10. 🗣 Commented on [#18792](https://github.com/apache/iotdb/issues/18792#issuecomment-5978266175) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

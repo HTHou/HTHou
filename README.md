@@ -32,6 +32,8 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#18793](https://github.com/apache/iotdb/pull/18793) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🗣 Commented on [#133](https://github.com/apache/iotdb-extras/pull/133#issuecomment-6074155808) in [apache/iotdb-extras](https://github.com/apache/iotdb-extras)
 <!--END_SECTION:activity-->
 
 <!--

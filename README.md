@@ -32,9 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1614](https://github.com/apache/ratis/pull/1614#issuecomment-6212730808) in [apache/ratis](https://github.com/apache/ratis)
-2. 🔒 Closed issue [#14259](https://github.com/apache/iotdb/issues/14259) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🎉 Merged PR [#18793](https://github.com/apache/iotdb/pull/18793) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

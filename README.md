@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4316** commits, opened **64** issues, submitted **1459** pull requests, received **1** stars across **19** personal projects and contributed to **34** public repositories.
+Since then I pushed **4316** commits, opened **64** issues, submitted **1459** pull requests, received **1** stars across **19** personal projects and contributed to **33** public repositories.
 
 Most used languages across my projects:
 
@@ -32,9 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1028](https://github.com/apache/tsfile/pull/1028) in [apache/tsfile](https://github.com/apache/tsfile)
-2. 💪 Opened PR [#1028](https://github.com/apache/tsfile/pull/1028) in [apache/tsfile](https://github.com/apache/tsfile)
-3. 🗣 Commented on [#1614](https://github.com/apache/ratis/pull/1614#issuecomment-6212730808) in [apache/ratis](https://github.com/apache/ratis)
 <!--END_SECTION:activity-->
 
 <!--

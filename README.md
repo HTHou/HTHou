@@ -32,9 +32,9 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1028](https://github.com/apache/tsfile/pull/1028) in [apache/tsfile](https://github.com/apache/tsfile)
-2. 🗣 Commented on [#1614](https://github.com/apache/ratis/pull/1614#issuecomment-6212730808) in [apache/ratis](https://github.com/apache/ratis)
-3. 🔒 Closed issue [#14259](https://github.com/apache/iotdb/issues/14259) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 🎉 Merged PR [#1028](https://github.com/apache/tsfile/pull/1028) in [apache/tsfile](https://github.com/apache/tsfile)
+2. 💪 Opened PR [#1028](https://github.com/apache/tsfile/pull/1028) in [apache/tsfile](https://github.com/apache/tsfile)
+3. 🗣 Commented on [#1614](https://github.com/apache/ratis/pull/1614#issuecomment-6212730808) in [apache/ratis](https://github.com/apache/ratis)
 <!--END_SECTION:activity-->
 
 <!--

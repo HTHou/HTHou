@@ -10,14 +10,14 @@ Since then I pushed **4321** commits, opened **66** issues, submitted **1464** p
 
 Most used languages across my projects:
 
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B176.2%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B15.3%25)
-![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B14.7%25)
-![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B12.5%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B174.9%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B15.2%25)
+![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B14.9%25)
+![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B12.6%25)
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%237355dd&message=C%23%EF%B8%B11.7%25)
-![Less](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%231d365d&message=Less%EF%B8%B11.6%25)
-![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B10.9%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B16.8%25)
+![Less](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%231d365d&message=Less%EF%B8%B11.5%25)
+![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B11%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B17.8%25)
 
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#865](https://github.com/Tongsuo-Project/Tongsuo/issues/865#issuecomment-6650483014) in [Tongsuo-Project/Tongsuo](https://github.com/Tongsuo-Project/Tongsuo)
-2. 🔒 Closed issue [#865](https://github.com/Tongsuo-Project/Tongsuo/issues/865) in [Tongsuo-Project/Tongsuo](https://github.com/Tongsuo-Project/Tongsuo)
-3. ❗ Opened issue [#865](https://github.com/Tongsuo-Project/Tongsuo/issues/865) in [Tongsuo-Project/Tongsuo](https://github.com/Tongsuo-Project/Tongsuo)
-4. 🎉 Merged PR [#19074](https://github.com/apache/iotdb/pull/19074) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 💪 Opened PR [#19074](https://github.com/apache/iotdb/pull/19074) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 💪 Opened PR [#1046](https://github.com/apache/tsfile/pull/1046) in [apache/tsfile](https://github.com/apache/tsfile)
-7. ❗ Opened issue [#194](https://github.com/Kimentanm/aptv/issues/194) in [Kimentanm/aptv](https://github.com/Kimentanm/aptv)
-8. 🎉 Merged PR [#18999](https://github.com/apache/iotdb/pull/18999) in [apache/iotdb](https://github.com/apache/iotdb)
-9. 🗣 Commented on [#18678](https://github.com/apache/iotdb/pull/18678#issuecomment-6429390645) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 🎉 Merged PR [#19002](https://github.com/apache/iotdb/pull/19002) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

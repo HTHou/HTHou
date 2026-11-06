@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4117](https://github.com/apache/thrift/pull/4117) in [apache/thrift](https://github.com/apache/thrift)
-2. 💪 Opened PR [#4117](https://github.com/apache/thrift/pull/4117) in [apache/thrift](https://github.com/apache/thrift)
-3. 💪 Opened PR [#4116](https://github.com/apache/thrift/pull/4116) in [apache/thrift](https://github.com/apache/thrift)
-4. 💪 Opened PR [#4115](https://github.com/apache/thrift/pull/4115) in [apache/thrift](https://github.com/apache/thrift)
-5. 💪 Opened PR [#4114](https://github.com/apache/thrift/pull/4114) in [apache/thrift](https://github.com/apache/thrift)
-6. 🗣 Commented on [#865](https://github.com/Tongsuo-Project/Tongsuo/issues/865#issuecomment-6650483014) in [Tongsuo-Project/Tongsuo](https://github.com/Tongsuo-Project/Tongsuo)
-7. 🔒 Closed issue [#865](https://github.com/Tongsuo-Project/Tongsuo/issues/865) in [Tongsuo-Project/Tongsuo](https://github.com/Tongsuo-Project/Tongsuo)
-8. ❗ Opened issue [#865](https://github.com/Tongsuo-Project/Tongsuo/issues/865) in [Tongsuo-Project/Tongsuo](https://github.com/Tongsuo-Project/Tongsuo)
-9. 🎉 Merged PR [#19074](https://github.com/apache/iotdb/pull/19074) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 💪 Opened PR [#19074](https://github.com/apache/iotdb/pull/19074) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <!--

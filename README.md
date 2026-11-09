@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4114](https://github.com/apache/thrift/pull/4114) in [apache/thrift](https://github.com/apache/thrift)
-2. 🎉 Merged PR [#4115](https://github.com/apache/thrift/pull/4115) in [apache/thrift](https://github.com/apache/thrift)
-3. 🎉 Merged PR [#4116](https://github.com/apache/thrift/pull/4116) in [apache/thrift](https://github.com/apache/thrift)
-4. ❌ Closed PR [#4117](https://github.com/apache/thrift/pull/4117) in [apache/thrift](https://github.com/apache/thrift)
-5. 💪 Opened PR [#4117](https://github.com/apache/thrift/pull/4117) in [apache/thrift](https://github.com/apache/thrift)
-6. 💪 Opened PR [#4116](https://github.com/apache/thrift/pull/4116) in [apache/thrift](https://github.com/apache/thrift)
-7. 💪 Opened PR [#4115](https://github.com/apache/thrift/pull/4115) in [apache/thrift](https://github.com/apache/thrift)
-8. 💪 Opened PR [#4114](https://github.com/apache/thrift/pull/4114) in [apache/thrift](https://github.com/apache/thrift)
-9. 🗣 Commented on [#865](https://github.com/Tongsuo-Project/Tongsuo/issues/865#issuecomment-6650483014) in [Tongsuo-Project/Tongsuo](https://github.com/Tongsuo-Project/Tongsuo)
-10. 🔒 Closed issue [#865](https://github.com/Tongsuo-Project/Tongsuo/issues/865) in [Tongsuo-Project/Tongsuo](https://github.com/Tongsuo-Project/Tongsuo)
+1. 💪 Opened PR [#4163](https://github.com/apache/thrift/pull/4163) in [apache/thrift](https://github.com/apache/thrift)
+2. 🎉 Merged PR [#4114](https://github.com/apache/thrift/pull/4114) in [apache/thrift](https://github.com/apache/thrift)
+3. 🎉 Merged PR [#4115](https://github.com/apache/thrift/pull/4115) in [apache/thrift](https://github.com/apache/thrift)
+4. 🎉 Merged PR [#4116](https://github.com/apache/thrift/pull/4116) in [apache/thrift](https://github.com/apache/thrift)
+5. ❌ Closed PR [#4117](https://github.com/apache/thrift/pull/4117) in [apache/thrift](https://github.com/apache/thrift)
+6. 💪 Opened PR [#4117](https://github.com/apache/thrift/pull/4117) in [apache/thrift](https://github.com/apache/thrift)
+7. 💪 Opened PR [#4116](https://github.com/apache/thrift/pull/4116) in [apache/thrift](https://github.com/apache/thrift)
+8. 💪 Opened PR [#4115](https://github.com/apache/thrift/pull/4115) in [apache/thrift](https://github.com/apache/thrift)
+9. 💪 Opened PR [#4114](https://github.com/apache/thrift/pull/4114) in [apache/thrift](https://github.com/apache/thrift)
+10. 🗣 Commented on [#865](https://github.com/Tongsuo-Project/Tongsuo/issues/865#issuecomment-6650483014) in [Tongsuo-Project/Tongsuo](https://github.com/Tongsuo-Project/Tongsuo)
 <!--END_SECTION:activity-->
 
 <!--

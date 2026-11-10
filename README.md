@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1084](https://github.com/apache/tsfile/issues/1084#issuecomment-6758202154) in [apache/tsfile](https://github.com/apache/tsfile)
+2. 🗣 Commented on [#1321](https://github.com/Tencent/TencentKonaSMSuite/pull/1321#issuecomment-6756908974) in [Tencent/TencentKonaSMSuite](https://github.com/Tencent/TencentKonaSMSuite)
+3. 💪 Opened PR [#4163](https://github.com/apache/thrift/pull/4163) in [apache/thrift](https://github.com/apache/thrift)
+4. 🎉 Merged PR [#4114](https://github.com/apache/thrift/pull/4114) in [apache/thrift](https://github.com/apache/thrift)
+5. 🎉 Merged PR [#4115](https://github.com/apache/thrift/pull/4115) in [apache/thrift](https://github.com/apache/thrift)
+6. 🎉 Merged PR [#4116](https://github.com/apache/thrift/pull/4116) in [apache/thrift](https://github.com/apache/thrift)
+7. ❌ Closed PR [#4117](https://github.com/apache/thrift/pull/4117) in [apache/thrift](https://github.com/apache/thrift)
+8. 💪 Opened PR [#4117](https://github.com/apache/thrift/pull/4117) in [apache/thrift](https://github.com/apache/thrift)
+9. 💪 Opened PR [#4116](https://github.com/apache/thrift/pull/4116) in [apache/thrift](https://github.com/apache/thrift)
+10. 💪 Opened PR [#4115](https://github.com/apache/thrift/pull/4115) in [apache/thrift](https://github.com/apache/thrift)
 <!--END_SECTION:activity-->
 
 <!--

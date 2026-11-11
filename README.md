@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4333** commits, opened **66** issues, submitted **1469** pull requests, received **1** stars across **19** personal projects and contributed to **35** public repositories.
+Since then I pushed **4334** commits, opened **66** issues, submitted **1470** pull requests, received **1** stars across **19** personal projects and contributed to **35** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3374](https://github.com/ccfos/nightingale/issues/3374#issuecomment-6765039352) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
-2. 🗣 Commented on [#1084](https://github.com/apache/tsfile/issues/1084#issuecomment-6758202154) in [apache/tsfile](https://github.com/apache/tsfile)
-3. 🗣 Commented on [#1321](https://github.com/Tencent/TencentKonaSMSuite/pull/1321#issuecomment-6756908974) in [Tencent/TencentKonaSMSuite](https://github.com/Tencent/TencentKonaSMSuite)
-4. 💪 Opened PR [#4163](https://github.com/apache/thrift/pull/4163) in [apache/thrift](https://github.com/apache/thrift)
-5. 🎉 Merged PR [#4114](https://github.com/apache/thrift/pull/4114) in [apache/thrift](https://github.com/apache/thrift)
-6. 🎉 Merged PR [#4115](https://github.com/apache/thrift/pull/4115) in [apache/thrift](https://github.com/apache/thrift)
-7. 🎉 Merged PR [#4116](https://github.com/apache/thrift/pull/4116) in [apache/thrift](https://github.com/apache/thrift)
-8. ❌ Closed PR [#4117](https://github.com/apache/thrift/pull/4117) in [apache/thrift](https://github.com/apache/thrift)
-9. 💪 Opened PR [#4117](https://github.com/apache/thrift/pull/4117) in [apache/thrift](https://github.com/apache/thrift)
-10. 💪 Opened PR [#4116](https://github.com/apache/thrift/pull/4116) in [apache/thrift](https://github.com/apache/thrift)
 <!--END_SECTION:activity-->
 
 <!--

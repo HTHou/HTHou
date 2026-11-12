@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4335** commits, opened **66** issues, submitted **1471** pull requests, received **1** stars across **19** personal projects and contributed to **35** public repositories.
+Since then I pushed **4335** commits, opened **66** issues, submitted **1473** pull requests, received **1** stars across **19** personal projects and contributed to **35** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19230](https://github.com/apache/iotdb/pull/19230) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🎉 Merged PR [#19226](https://github.com/apache/iotdb/pull/19226) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 💪 Opened PR [#19226](https://github.com/apache/iotdb/pull/19226) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🎉 Merged PR [#19216](https://github.com/apache/iotdb/pull/19216) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 💪 Opened PR [#19216](https://github.com/apache/iotdb/pull/19216) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🗣 Commented on [#3374](https://github.com/ccfos/nightingale/issues/3374#issuecomment-6765039352) in [ccfos/nightingale](https://github.com/ccfos/nightingale)
-7. 🗣 Commented on [#1084](https://github.com/apache/tsfile/issues/1084#issuecomment-6758202154) in [apache/tsfile](https://github.com/apache/tsfile)
-8. 🗣 Commented on [#1321](https://github.com/Tencent/TencentKonaSMSuite/pull/1321#issuecomment-6756908974) in [Tencent/TencentKonaSMSuite](https://github.com/Tencent/TencentKonaSMSuite)
-9. 💪 Opened PR [#4163](https://github.com/apache/thrift/pull/4163) in [apache/thrift](https://github.com/apache/thrift)
-10. 🎉 Merged PR [#4114](https://github.com/apache/thrift/pull/4114) in [apache/thrift](https://github.com/apache/thrift)
 <!--END_SECTION:activity-->
 
 <!--

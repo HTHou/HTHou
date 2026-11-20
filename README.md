@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#4201](https://github.com/apache/thrift/pull/4201#issuecomment-7044755310) in [apache/thrift](https://github.com/apache/thrift)
+2. 🗣 Commented on [#240](https://github.com/apache/ratis-thirdparty/pull/240#issuecomment-7041745324) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
+3. 🎉 Merged PR [#240](https://github.com/apache/ratis-thirdparty/pull/240) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
+4. 🎉 Merged PR [#1250](https://github.com/apache/iotdb-docs/pull/1250) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
+5. 💪 Opened PR [#1250](https://github.com/apache/iotdb-docs/pull/1250) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
+6. 💪 Opened PR [#1706](https://github.com/apache/ratis/pull/1706) in [apache/ratis](https://github.com/apache/ratis)
+7. 💪 Opened PR [#241](https://github.com/apache/ratis-thirdparty/pull/241) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
+8. 💪 Opened PR [#4201](https://github.com/apache/thrift/pull/4201) in [apache/thrift](https://github.com/apache/thrift)
+9. 💪 Opened PR [#240](https://github.com/apache/ratis-thirdparty/pull/240) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
+10. 💪 Opened PR [#4200](https://github.com/apache/thrift/pull/4200) in [apache/thrift](https://github.com/apache/thrift)
 <!--END_SECTION:activity-->
 
 <!--

@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4340** commits, opened **67** issues, submitted **1482** pull requests, received **1** stars across **19** personal projects and contributed to **35** public repositories.
+Since then I pushed **4344** commits, opened **67** issues, submitted **1486** pull requests, received **1** stars across **19** personal projects and contributed to **35** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#240](https://github.com/apache/ratis-thirdparty/pull/240) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
-2. 🎉 Merged PR [#1250](https://github.com/apache/iotdb-docs/pull/1250) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-3. 💪 Opened PR [#1250](https://github.com/apache/iotdb-docs/pull/1250) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-4. 💪 Opened PR [#1706](https://github.com/apache/ratis/pull/1706) in [apache/ratis](https://github.com/apache/ratis)
-5. 💪 Opened PR [#241](https://github.com/apache/ratis-thirdparty/pull/241) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
-6. 💪 Opened PR [#4201](https://github.com/apache/thrift/pull/4201) in [apache/thrift](https://github.com/apache/thrift)
-7. 💪 Opened PR [#240](https://github.com/apache/ratis-thirdparty/pull/240) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
-8. 💪 Opened PR [#4200](https://github.com/apache/thrift/pull/4200) in [apache/thrift](https://github.com/apache/thrift)
-9. ❗ Opened issue [#23](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/issues/23) in [zzzz0317/beijing-unicom-iptv-playlist](https://github.com/zzzz0317/beijing-unicom-iptv-playlist)
-10. 🗣 Commented on [#238](https://github.com/apache/ratis-thirdparty/pull/238#issuecomment-6981211100) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
 <!--END_SECTION:activity-->
 
 <!--

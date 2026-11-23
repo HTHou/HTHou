@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4347** commits, opened **67** issues, submitted **1486** pull requests, received **1** stars across **19** personal projects and contributed to **35** public repositories.
+Since then I pushed **4347** commits, opened **67** issues, submitted **1488** pull requests, received **1** stars across **19** personal projects and contributed to **35** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19370](https://github.com/apache/iotdb/pull/19370) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 💪 Opened PR [#4225](https://github.com/apache/thrift/pull/4225) in [apache/thrift](https://github.com/apache/thrift)
-3. 🚀 Published release [Apache IoTDB 2.0.12](https://github.com/apache/iotdb/releases/tag/v2.0.12) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🗣 Commented on [#4200](https://github.com/apache/thrift/pull/4200#issuecomment-7089654561) in [apache/thrift](https://github.com/apache/thrift)
-5. 🗣 Commented on [#19351](https://github.com/apache/iotdb/pull/19351#issuecomment-7089423976) in [apache/iotdb](https://github.com/apache/iotdb)
-6. 🗣 Commented on [#1706](https://github.com/apache/ratis/pull/1706#issuecomment-7089101116) in [apache/ratis](https://github.com/apache/ratis)
-7. 🎉 Merged PR [#241](https://github.com/apache/ratis-thirdparty/pull/241) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
-8. 🗣 Commented on [#23](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/issues/23#issuecomment-7055918505) in [zzzz0317/beijing-unicom-iptv-playlist](https://github.com/zzzz0317/beijing-unicom-iptv-playlist)
-9. 🔒 Closed issue [#23](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/issues/23) in [zzzz0317/beijing-unicom-iptv-playlist](https://github.com/zzzz0317/beijing-unicom-iptv-playlist)
-10. 🗣 Commented on [#4201](https://github.com/apache/thrift/pull/4201#issuecomment-7055778894) in [apache/thrift](https://github.com/apache/thrift)
 <!--END_SECTION:activity-->
 
 <!--

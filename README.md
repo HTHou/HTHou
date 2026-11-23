@@ -32,16 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#241](https://github.com/apache/ratis-thirdparty/pull/241) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
-2. 🗣 Commented on [#23](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/issues/23#issuecomment-7055918505) in [zzzz0317/beijing-unicom-iptv-playlist](https://github.com/zzzz0317/beijing-unicom-iptv-playlist)
-3. 🔒 Closed issue [#23](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/issues/23) in [zzzz0317/beijing-unicom-iptv-playlist](https://github.com/zzzz0317/beijing-unicom-iptv-playlist)
-4. 🗣 Commented on [#4201](https://github.com/apache/thrift/pull/4201#issuecomment-7055778894) in [apache/thrift](https://github.com/apache/thrift)
-5. 🎉 Merged PR [#4201](https://github.com/apache/thrift/pull/4201) in [apache/thrift](https://github.com/apache/thrift)
-6. 🗣 Commented on [#4201](https://github.com/apache/thrift/pull/4201#issuecomment-7044755310) in [apache/thrift](https://github.com/apache/thrift)
-7. 🗣 Commented on [#240](https://github.com/apache/ratis-thirdparty/pull/240#issuecomment-7041745324) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
-8. 🎉 Merged PR [#240](https://github.com/apache/ratis-thirdparty/pull/240) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
-9. 🎉 Merged PR [#1250](https://github.com/apache/iotdb-docs/pull/1250) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-10. 💪 Opened PR [#1250](https://github.com/apache/iotdb-docs/pull/1250) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
+1. 🚀 Published release [Apache IoTDB 2.0.12](https://github.com/apache/iotdb/releases/tag/v2.0.12) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🗣 Commented on [#4200](https://github.com/apache/thrift/pull/4200#issuecomment-7089654561) in [apache/thrift](https://github.com/apache/thrift)
+3. 🗣 Commented on [#19351](https://github.com/apache/iotdb/pull/19351#issuecomment-7089423976) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🗣 Commented on [#1706](https://github.com/apache/ratis/pull/1706#issuecomment-7089101116) in [apache/ratis](https://github.com/apache/ratis)
+5. 🎉 Merged PR [#241](https://github.com/apache/ratis-thirdparty/pull/241) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
+6. 🗣 Commented on [#23](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/issues/23#issuecomment-7055918505) in [zzzz0317/beijing-unicom-iptv-playlist](https://github.com/zzzz0317/beijing-unicom-iptv-playlist)
+7. 🔒 Closed issue [#23](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/issues/23) in [zzzz0317/beijing-unicom-iptv-playlist](https://github.com/zzzz0317/beijing-unicom-iptv-playlist)
+8. 🗣 Commented on [#4201](https://github.com/apache/thrift/pull/4201#issuecomment-7055778894) in [apache/thrift](https://github.com/apache/thrift)
+9. 🎉 Merged PR [#4201](https://github.com/apache/thrift/pull/4201) in [apache/thrift](https://github.com/apache/thrift)
+10. 🗣 Commented on [#4201](https://github.com/apache/thrift/pull/4201#issuecomment-7044755310) in [apache/thrift](https://github.com/apache/thrift)
 <!--END_SECTION:activity-->
 
 <!--

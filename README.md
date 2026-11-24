@@ -32,6 +32,16 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1706](https://github.com/apache/ratis/pull/1706#issuecomment-7119460053) in [apache/ratis](https://github.com/apache/ratis)
+2. ℹ️ Labeled issue [#15562](https://github.com/t8y2/dbx/issues/15562) in [t8y2/dbx](https://github.com/t8y2/dbx)
+3. ❗ Opened issue [#15562](https://github.com/t8y2/dbx/issues/15562) in [t8y2/dbx](https://github.com/t8y2/dbx)
+4. 💪 Opened PR [#19370](https://github.com/apache/iotdb/pull/19370) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 💪 Opened PR [#4225](https://github.com/apache/thrift/pull/4225) in [apache/thrift](https://github.com/apache/thrift)
+6. 🚀 Published release [Apache IoTDB 2.0.12](https://github.com/apache/iotdb/releases/tag/v2.0.12) in [apache/iotdb](https://github.com/apache/iotdb)
+7. 🗣 Commented on [#4200](https://github.com/apache/thrift/pull/4200#issuecomment-7089654561) in [apache/thrift](https://github.com/apache/thrift)
+8. 🗣 Commented on [#19351](https://github.com/apache/iotdb/pull/19351#issuecomment-7089423976) in [apache/iotdb](https://github.com/apache/iotdb)
+9. 🗣 Commented on [#1706](https://github.com/apache/ratis/pull/1706#issuecomment-7089101116) in [apache/ratis](https://github.com/apache/ratis)
+10. 🎉 Merged PR [#241](https://github.com/apache/ratis-thirdparty/pull/241) in [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty)
 <!--END_SECTION:activity-->
 
 <!--

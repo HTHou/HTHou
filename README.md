@@ -6,7 +6,7 @@
    
 Joined Github **9** years ago.
 
-Since then I pushed **4350** commits, opened **68** issues, submitted **1489** pull requests, received **1** stars across **19** personal projects and contributed to **36** public repositories.
+Since then I pushed **4351** commits, opened **68** issues, submitted **1490** pull requests, received **1** stars across **19** personal projects and contributed to **36** public repositories.
 
 Most used languages across my projects:
 
@@ -32,16 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19383](https://github.com/apache/iotdb/pull/19383) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 💪 Opened PR [#19383](https://github.com/apache/iotdb/pull/19383) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🎉 Merged PR [#19370](https://github.com/apache/iotdb/pull/19370) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🗣 Commented on [#1706](https://github.com/apache/ratis/pull/1706#issuecomment-7123871358) in [apache/ratis](https://github.com/apache/ratis)
-5. 🎉 Merged PR [#1706](https://github.com/apache/ratis/pull/1706) in [apache/ratis](https://github.com/apache/ratis)
-6. 🗣 Commented on [#1706](https://github.com/apache/ratis/pull/1706#issuecomment-7119460053) in [apache/ratis](https://github.com/apache/ratis)
-7. ℹ️ Labeled issue [#15562](https://github.com/t8y2/dbx/issues/15562) in [t8y2/dbx](https://github.com/t8y2/dbx)
-8. ❗ Opened issue [#15562](https://github.com/t8y2/dbx/issues/15562) in [t8y2/dbx](https://github.com/t8y2/dbx)
-9. 💪 Opened PR [#19370](https://github.com/apache/iotdb/pull/19370) in [apache/iotdb](https://github.com/apache/iotdb)
-10. 💪 Opened PR [#4225](https://github.com/apache/thrift/pull/4225) in [apache/thrift](https://github.com/apache/thrift)
 <!--END_SECTION:activity-->
 
 <!--
